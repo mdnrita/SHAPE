@@ -1,45 +1,64 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# [Table of contents](#table-of-contents)
+## 1. [Introduction](#introduction)
+## 2. [UX](#ux)
+-  ### Ideal User Demographic
+-  ### User Stories
+-  ### Development Planes
+## 3. [Design](#design) 
+-  ### Features
+-  ### Design Features
+-  ### Existing Features
+## 4. [Issues and Bugs](#issues-and-bugs)
+## 5. Technologies Used
+-  ### Main Languages Used
+-  ### Additional Languages Used
+-  ### Frameworks, Libraries & Programs Used
+## 6. [Testing](#testing)
+- ### Testing.md
+## 7. [Deployment](#deployment)
+- ### Deploying on GitHub Pages
+- ### Forking the Repository
+- ### Creating a Clone
+## 8. [Credits](#credits)
+- ### Content
+- ### Media
+- ### Code
+## 9. [Acknowledgements](#acknowledgments)
+#
 
-Welcome mdnrita,
+# [Introduction](#introduction) 
+[Back to Top&#8593;](#table-of-contents) 
+#
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
+# [UX](#ux)
+- Ideal User Demographic
 
-## Gitpod Reminders
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
 
-`python3 -m http.server`
 
-A blue button should appear to click: _Make Public_,
+[Back to Top&#8593;](#table-of-contents) 
+#
 
-Another blue button should appear to click: _Open Browser_.
+# [Design](#design)
+[Back to Top&#8593;](#table-of-contents) 
+#
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+# [Issues and Bugs](#issues-and-bugs)
+[Back to Top&#8593;](#table-of-contents) 
+#
 
-A blue button should appear to click: _Make Public_,
+# [Testing](#testing)
+[Back to Top&#8593;](#table-of-contents) 
+#
 
-Another blue button should appear to click: _Open Browser_.
+# [Deployment](#deployment)
+[Back to Top&#8593;](#table-of-contents) 
+#
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+# [Credits](#credits)
+[Back to Top&#8593;](#table-of-contents) 
+#
 
-## Updates Since The Instructional Video
-
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
-
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
-
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
-
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
-
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
-
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
----
-
-Happy coding!
+# [Acknowledgments](#acknowledgments)
+[Back to Top&#8593;](#table-of-contents) 
+#
