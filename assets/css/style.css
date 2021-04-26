@@ -1,0 +1,28 @@
+*{
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+header{
+    height: 80px;
+    border-bottom: 4px solid red;
+}
+
+#logo{
+    padding-left: 32px;
+    width: 159px;
+    margin-bottom: -46px;
+    color: red;
+}
+
+nav, li{
+    float: right;
+    padding-right: 17px;
+}
+
+a{
+    background-color: red;
+    border-radius: 50%;
+    margin: 3px;
+    color: white;
+}
