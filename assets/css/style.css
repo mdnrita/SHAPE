@@ -75,7 +75,11 @@ a{
 }
 
 #ready-head{
-    border: 10px solid red;
+    border-left: 10px solid red;
+}
+
+.countdown-headers{
+    margin-left: 100px;
 }
 
 
