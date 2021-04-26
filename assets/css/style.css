@@ -72,7 +72,11 @@ a{
     width: 505px;
     height: 46px;
     border-bottom: 3px solid red;
-    color: white;
 }
+
+#ready-head{
+    border: 10px solid red;
+}
+
 
 
