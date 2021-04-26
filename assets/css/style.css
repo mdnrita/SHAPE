@@ -50,7 +50,7 @@ a{
 }
          /* Hero Image Heading Text */
 .hero-heading{
-    background-color: peachpuff;
+    background-color: grey;
     position: absolute;
     top: 150px;
     left: 215px;
@@ -74,12 +74,19 @@ a{
     border-bottom: 3px solid red;
 }
 
-#ready-head{
-    border-left: 10px solid red;
-}
-
 .countdown-headers{
     margin-left: 100px;
+}
+
+#ready-head{
+    border-left: 10px solid red;
+    background-color: gray;
+}
+
+#ready-image{
+    filter: grayscale(1);
+    height: 287px;
+    width: 350px;
 }
 
 
