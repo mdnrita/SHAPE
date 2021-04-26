@@ -1,28 +1,62 @@
+         /*Link from Imported Google Fonts */ 
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Montserrat:wght@300&display=swap');
+         /*Asterisk Wildcard Selector_Box Model */
 *{
     border: 0;
     margin: 0;
     padding: 0;
 }
+         /*Body Tag */
+body{
+    font-family: Montserrat, 'sans-serif'
+}
+         /* Header Tag */
 header{
     height: 80px;
     border-bottom: 4px solid red;
 }
 
+         /* Logo ID */
 #logo{
     padding-left: 32px;
     width: 159px;
     margin-bottom: -46px;
     color: red;
 }
-
+         /* Nav-Bar Lists */
 nav, li{
     float: right;
     padding-right: 17px;
 }
-
+         /* Nav-Bar Anchor Links */
 a{
     background-color: red;
     border-radius: 50%;
     margin: 3px;
-    color: white;
 }
+        /* Beggining of Hero-Image Section */
+        /* Hero Section */
+.hero-section{
+    overflow: hidden;
+    position: relative;
+}
+         /* Hero Image */
+.hero-image{
+    height: 419px;
+    width: 784px;
+    margin-left: 196px;
+    margin-top: 35px;
+    border-bottom: 10px solid red;
+}
+         /* Hero Image Heading Text */
+.hero-heading{
+    background-color: peachpuff;
+    position: absolute;
+    top: 150px;
+    left: 215px;
+    height: 223px;
+    width: 360px;
+    padding-left: 14px;
+}
+
+
