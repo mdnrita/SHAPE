@@ -59,4 +59,20 @@ a{
     padding-left: 14px;
 }
 
+#outdoor-sessions{
+    height: 600px;
+
+}
+
+.outdoor-heading{
+    background-color: rgba(246, 71, 71, 0.4);
+    margin-top: 20px;
+    margin-left: 100px;
+    padding-left: 38px;
+    width: 505px;
+    height: 46px;
+    border-bottom: 3px solid red;
+    color: white;
+}
+
 
