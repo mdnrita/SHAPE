@@ -93,4 +93,31 @@ a{
     width: 362px;
 }
 
+.review-image{
+    border-radius: 50%;
+}
 
+#review-container{
+    background-color: gray;
+    position: relative;
+    height: 400px;
+    width: 230px;
+}
+
+#left-arrow{
+position: absolute;
+height: 55px;
+top: 170px;
+left: 57px;
+}
+
+#right-arrow{
+height: 51px;
+right: 76px;
+top: 167px;
+}
+
+#review-background{
+    background-color: rgba(232, 232, 232, 1);
+    border-radius: 38%;
+}
