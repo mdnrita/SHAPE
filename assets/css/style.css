@@ -49,7 +49,7 @@ a{
 }
          /* Hero Image Heading Text */
 .hero-heading{
-    background-color: grey;
+    background-image: linear-gradient(20deg, silver, silver, white, gray, silver);
     position: absolute;
     top: 150px;
     left: 215px;
