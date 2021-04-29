@@ -77,6 +77,9 @@ a{
 
     animation-name: hello;
     animation-duration: 5s;
+
+    animation-name: moving-text;
+    animation-duration: 3s ease-in-out;
 }
 
 .outdoor-heading{
@@ -174,4 +177,17 @@ a:hover{
 
   #logo:hover{
     color: rgba(0,0,0,0);
+}
+
+
+@keyframes moving-text{
+    from{
+      top: 110px;
+      left: -366px;
+    }
+    to{
+        top: 110px;
+        left:64px;
+
+    }
 }
