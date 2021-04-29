@@ -67,19 +67,20 @@ a{
     /* Hero Image Heading Text */
 
 .hero-heading{
-    background-image: linear-gradient(20deg, silver, silver, white, gray, silver);
-    position: absolute;
-    top: 150px;
-    left: 215px;
-    height: 223px;
-    width: 360px;
-    padding-left: 14px;
-
-    animation-name: hello;
-    animation-duration: 5s;
-
-    animation-name: moving-text;
-    animation-duration: 3s ease-in-out;
+    background-image: linear-gradient(37deg, rgba(218, 223, 225, 0.9), rgba(236, 240, 241, 0.3), rgba(238, 238, 238, 0.7), rgba(236, 240, 241, 0.4), rgba(218, 223, 225, 0.2));
+            position: absolute;
+            top: 110px;
+            left: 215px;
+            height: 272px;
+            width: 360px;
+            padding-left: 16px;
+            padding-top: 14px;
+            
+            animation-name: hello;
+            animation-duration: 5s;
+            animation-name: moving-text;
+            animation-duration: 4s ease-in-out;
+            border-radius: 6%;
 }
 
 .outdoor-heading{
@@ -187,7 +188,7 @@ a:hover{
     }
     to{
         top: 110px;
-        left:64px;
+        left:215px;
 
     }
 }
