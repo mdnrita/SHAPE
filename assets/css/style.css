@@ -18,11 +18,21 @@ header{
 
          /* Logo ID */
 #logo{
-    padding-left: 32px;
-    width: 159px;
-    margin-bottom: -46px;
+    margin-left: 24px;
+    width: 151px;
+    margin-bottom: -42px;
     color: red;
+    font-size: 37px;
+    margin-top: -7px;
+    background: linear-gradient(20deg, rgb(250, 121, 0), rgba(233, 210, 3, 0.952), rgb(236, 100, 58));
+    
+    animation: rainbow 3s ease-in-out infinite;
+    transition: color 1s ease-in-out;
+    background-clip: text;
+    -webkit-background-clip:text;
+    
 }
+
          /* Nav-Bar Lists */
 nav, li{
     float: right;
@@ -30,24 +40,31 @@ nav, li{
 }
          /* Nav-Bar Anchor Links */
 a{
-    background-color: red;
-    border-radius: 50%;
-    margin: 3px;
+    background-color: rgba(246, 71, 71, 0.8);
+    border-radius: 34%;
+    margin: -7px -4px 0 4px;
+    font-size: 18px;  
 }
+
 .hero-section{
     overflow: hidden;
     position: relative;
 }
          /* Hero Image */
 #hero{
-    background-color: rgba(246, 71, 71, 0.5);
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
 }
 .hero-image{
     height: 414px;
     width: 842px;
     margin-left: 420px;
+
+    animation-name: hello;
+    animation-duration: 2s;
 }
-         /* Hero Image Heading Text */
+
+    /* Hero Image Heading Text */
+
 .hero-heading{
     background-image: linear-gradient(20deg, silver, silver, white, gray, silver);
     position: absolute;
@@ -56,6 +73,9 @@ a{
     height: 223px;
     width: 360px;
     padding-left: 14px;
+
+    animation-name: hello;
+    animation-duration: 5s;
 }
 
 .outdoor-heading{
@@ -66,10 +86,16 @@ a{
     width: 505px;
     height: 46px;
     border-bottom: 3px solid red;
+    
 }
 
 .countdown-headers{
     margin-left: 100px;
+ 
+    animation-name: hello;
+    animation-duration: 5s;
+    
+
 }
 
 #ready-head{
@@ -127,4 +153,23 @@ top: 167px;
 
 footer{
     background-color: rgba(246, 71, 71, 0.4);
+}
+
+@keyframes  hello {
+    0%   { opacity: 0; }
+    100% { opacity: 1; }
+  }
+
+a:hover{
+    background-image: linear-gradient(20deg, rgb(250, 121, 0), rgba(253, 238, 104, 0.959), rgb(236, 100, 58));
+}
+
+@keyframes rainbow { 
+    0%{background-position:left}
+    50%{background-position:right}
+    100%{background-position:left}
+  }
+
+  #logo:hover{
+    color: rgba(0,0,0,0);
 }
