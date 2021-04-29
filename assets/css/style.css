@@ -56,9 +56,11 @@ a{
     background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
 }
 .hero-image{
-    height: 414px;
-    width: 842px;
-    margin-left: 420px;
+    height: 400px;
+    width: 820px;
+    margin-left: 415px;
+    padding-left: 36px;
+    margin-top: 10px;
 
     animation-name: hello;
     animation-duration: 2s;
