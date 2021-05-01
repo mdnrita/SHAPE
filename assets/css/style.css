@@ -64,17 +64,11 @@ a{
     border-radius: 39%;
     box-shadow: 10px -1px 0px red;
     margin-top: 15px;
+    opacity: 90%;
 
     animation-name: hello;
     animation-duration: 2s;
 
-    height: 341px;
-    width: 738px;
-    margin-left: 499px;
-    padding-left: -3px;
-    border-radius: 39%;
-    box-shadow: 10px -1px 0px red;
-    margin-top: 15px;
 }
 
     /* Hero Image Heading Text */
