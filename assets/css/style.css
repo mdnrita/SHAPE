@@ -91,6 +91,29 @@ a{
             animation-duration: 4s ease-in-out;
 }
 
+#trial-container{
+position: absolute;
+left: 179px;
+top: 330px;
+
+animation-name: hi;
+animation-duration: 5s;
+}
+
+.trial-anchor{
+display: inline-block;
+height: 42px;
+width: 166px;
+color: white;
+padding-left: 13px;
+padding-top: 6px;
+background-color: gray;
+border-radius: 10%;
+border: 1px;
+border: 1px solid white;
+
+}
+
 .outdoor-heading{
     background-color: rgba(246, 71, 71, 0.4);
     margin-top: 20px;
@@ -199,3 +222,10 @@ a:hover{
         left: 101px;
     }
 }
+
+@keyframes  hi {
+    0%   { opacity: 0; }
+    50% { opacity: 0; }
+    80% { opacity: 70%; }
+    100% { opacity: 1; }
+  }
