@@ -64,6 +64,7 @@ a{
     border-radius: 39%;
     box-shadow: 10px -1px 0px red;
     margin-top: 15px;
+    margin-bottom: 9px;
     opacity: 90%;
 
     animation-name: hello;
