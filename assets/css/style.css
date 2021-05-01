@@ -79,7 +79,8 @@ a{
     width: 567px;
     border-radius: 34%;
     margin-top: 15px;
-    box-shadow: -10px -1px 0px red;
+    box-shadow: -10px -1px 0px rgba(236, 100, 75, 0.7);
+    opacity: 90%;
     
     animation-name: second-hello;
     animation-duration: 10s;
@@ -91,9 +92,9 @@ a{
     background-image: linear-gradient(37deg, rgba(218, 223, 225, 0.9), rgba(236, 240, 241, 0.3), rgba(238, 238, 238, 0.7), rgba(236, 240, 241, 0.4), rgba(218, 223, 225, 0.2));
             position: absolute;
             top: 94px;
-            left: 101px;
-            height: 317px;
-            width: 327px;
+            left: 592px;
+            height: 63px;
+            width: 574px;
             padding-left: 16px;
             padding-top: 14px;
             border-radius: 13%;
@@ -233,7 +234,7 @@ footer{
 
 @keyframes  hello {
     0%   { opacity: 0; }
-    100% { opacity: 1; }
+    100% { opacity: 90%; }
   }
 
 a:hover{
@@ -255,11 +256,11 @@ a:hover{
 @keyframes moving-text{
     from{
       top: 92px;
-      left: -366px;
+      left: 331px;
     }
     to{
         top: 92px;
-        left: 101px;
+        left: 592px;
     }
 }
 
@@ -274,5 +275,5 @@ a:hover{
     0% {opacity: 0;}
     50% {opacity: 0;}
     80% {opacity: 0;}
-    100% {opacity: 1;}
+    100% {opacity: 90%;}
 }
