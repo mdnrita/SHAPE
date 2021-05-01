@@ -77,14 +77,14 @@ a{
 .hero-heading{
     background-image: linear-gradient(37deg, rgba(218, 223, 225, 0.9), rgba(236, 240, 241, 0.3), rgba(238, 238, 238, 0.7), rgba(236, 240, 241, 0.4), rgba(218, 223, 225, 0.2));
             position: absolute;
-            top: 92px;
+            top: 94px;
             left: 101px;
-            height: 334px;
-            width: 345px;
+            height: 317px;
+            width: 327px;
             padding-left: 16px;
             padding-top: 14px;
-            border-radius: 6%;
-            box-shadow: 1px -3px 17px white;
+            border-radius: 13%;
+            box-shadow: 1px 1px 13px white;
             
             animation-name: hello;
             animation-duration: 5s;
@@ -164,6 +164,16 @@ i{
 
 #set-image{
     width: 362px;
+}
+
+#set-head{
+    border-left: 4px solid red;
+    padding-left: 12px;
+    background-image: linear-gradient(24deg, rgb(146 145 145 / 62%), rgb(232 227 226 / 58%), rgb(187 187 187 / 34%), rgb(173 167 167 / 42%));
+    height: 150px;
+    box-shadow: 6px 3px 6px black;
+    width: 510px;
+
 }
 
 .review-image{
