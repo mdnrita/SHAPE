@@ -53,17 +53,28 @@ a{
    
 /* Hero Image */
 #hero{
-    background-image: linear-gradient(225deg, rgba(246, 71, 71, 1), rgba(236, 100, 75, 1), rgba(240, 52, 52, 0.3))
+    background-image: linear-gradient(88deg, rgba(246, 71, 71, 0.6), rgba(236, 100, 75, 1), rgba(240, 52, 52, 0.3));
+    
 }
 .hero-image{
-    height: 400px;
-    width: 820px;
-    margin-left: 415px;
-    padding-left: 36px;
-    margin-top: 10px;
+    height: 341px;
+    width: 738px;
+    margin-left: 499px;
+    padding-left: -3px;
+    border-radius: 39%;
+    box-shadow: 10px -1px 0px red;
+    margin-top: 15px;
 
     animation-name: hello;
     animation-duration: 2s;
+
+    height: 341px;
+    width: 738px;
+    margin-left: 499px;
+    padding-left: -3px;
+    border-radius: 39%;
+    box-shadow: 10px -1px 0px red;
+    margin-top: 15px;
 }
 
     /* Hero Image Heading Text */
@@ -71,14 +82,14 @@ a{
 .hero-heading{
     background-image: linear-gradient(37deg, rgba(218, 223, 225, 0.9), rgba(236, 240, 241, 0.3), rgba(238, 238, 238, 0.7), rgba(236, 240, 241, 0.4), rgba(218, 223, 225, 0.2));
             position: absolute;
-            top: 110px;
-            left: 121px;
-            height: 272px;
-            width: 360px;
+            top: 94px;
+            left: 101px;
+            height: 334px;
+            width: 345px;
             padding-left: 16px;
             padding-top: 14px;
             border-radius: 6%;
-            box-shadow: 3px 5px 18px rgb(108 122 137);
+            box-shadow: 1px -3px 17px white;
             
             animation-name: hello;
             animation-duration: 5s;
