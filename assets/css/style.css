@@ -65,10 +65,10 @@ a{
     box-shadow: 10px -1px 0px rgba(236, 100, 75, 0.7);
     margin-top: 15px;
     margin-bottom: 9px;
-    opacity: 90%;
+    opacity: 100%;
 
     animation-name: hello;
-    animation-duration: 2s;
+    animation-duration: 10s;
 
 }
 
@@ -233,8 +233,9 @@ footer{
 }
 
 @keyframes  hello {
-    0%   { opacity: 0; }
-    100% { opacity: 90%; }
+    0%   {opacity: 0;}
+    50%  {opacity: 90%;}
+    100% {opacity: 0;}
   }
 
 a:hover{
@@ -268,7 +269,7 @@ a:hover{
     0%   { opacity: 0; }
     50% { opacity: 0; }
     80% { opacity: 70%; }
-    100% { opacity: 1; }
+    100% { opacity: 100%; }
   }
 
 @keyframes second-hello{
