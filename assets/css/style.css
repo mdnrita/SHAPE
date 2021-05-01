@@ -125,14 +125,20 @@ border: 1px solid white;
     border-bottom: 3px solid red;
     font-size: 38px;
     color: white;
-    text-shadow: 0px 0px 3px red;
+    text-shadow: -1px 0px 0px red;
     font-weight: bold;
     border-top: 3px solid red;
     
 }
 
+i{
+    color: red;
+}
+
 .countdown-headers{
-    margin-left: 100px;
+    margin-left: 74px;
+    font-size: 30px;
+    text-shadow: 0 0 1px black;
  
     animation-name: hello;
     animation-duration: 5s;
