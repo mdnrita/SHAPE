@@ -72,6 +72,19 @@ a{
 
 }
 
+.second-hero{
+    position: absolute;
+    right: 603px;
+    height: 341px;
+    width: 567px;
+    border-radius: 34%;
+    margin-top: 15px;
+    box-shadow: -10px -1px 0px red;
+    
+    animation-name: second-hello;
+    animation-duration: 10s;
+}
+
     /* Hero Image Heading Text */
 
 .hero-heading{
@@ -256,3 +269,10 @@ a:hover{
     80% { opacity: 70%; }
     100% { opacity: 1; }
   }
+
+@keyframes second-hello{
+    0% {opacity: 0;}
+    50% {opacity: 0;}
+    80% {opacity: 0;}
+    100% {opacity: 1;}
+}
