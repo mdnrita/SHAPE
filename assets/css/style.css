@@ -148,6 +148,14 @@ i{
     color: red;
 }
 
+#ready-icon{
+    position: absolute;
+    font-size: 40px;
+    left: 76px;
+    top: 5px;
+
+}
+
 .countdown-headers{
     font-family: Audiowide, 'sans-serif';
     margin-left: 74px;
@@ -167,9 +175,10 @@ i{
     border-left: 4px solid red;
     padding-left: 12px;
     background-image: linear-gradient(24deg, rgb(109 109 109 / 40%), rgb(232 227 226 / 58%), rgb(187 187 187 / 34%), rgb(234 227 227 / 95%));
-    height: 165px;
+    height: 231px;
     box-shadow: 3px 1px 5px black;
     width: 217px;
+    padding-top: 52px;
 }
 
 #ready-second{
@@ -177,10 +186,11 @@ i{
     border-left: 4px solid red;
     padding-left: 12px;
     background-image: linear-gradient(24deg, rgb(109 109 109 / 40%), rgb(232 227 226 / 58%), rgb(187 187 187 / 34%), rgb(234 227 227 / 95%));
-    height: 165px;
+    height: 231px;
     box-shadow: 3px 1px 5px black;
     width: 217px;
     left: 257px;
+    padding-top: 52px;
 }
 
 
