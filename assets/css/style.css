@@ -67,38 +67,20 @@ a{
     margin-bottom: 9px;
     opacity: 100%;
 
-    animation-name: hello;
-    animation-duration: 10s;
-
-}
-
-.second-hero{
-    position: absolute;
-    right: 603px;
-    height: 341px;
-    width: 567px;
-    border-radius: 34%;
-    margin-top: 15px;
-    box-shadow: -10px -1px 0px rgba(236, 100, 75, 0.7);
-    opacity: 90%;
-    
-    animation-name: second-hello;
-    animation-duration: 10s;
 }
 
     /* Hero Image Heading Text */
 
-.hero-heading{
-    background-image: linear-gradient(37deg, rgba(218, 223, 225, 0.9), rgba(236, 240, 241, 0.3), rgba(238, 238, 238, 0.7), rgba(236, 240, 241, 0.4), rgba(218, 223, 225, 0.2));
+.show-first{
             position: absolute;
             top: 94px;
-            left: 592px;
+            left: 12px;
             height: 63px;
-            width: 574px;
+            width: 566px;
             padding-left: 16px;
             padding-top: 14px;
-            border-radius: 13%;
-            box-shadow: 1px 1px 13px white;
+            font-style: italic;
+            color: white;
             
             animation-name: hello;
             animation-duration: 5s;
@@ -106,13 +88,30 @@ a{
             animation-duration: 4s ease-in-out;
 }
 
+.show-later{
+    position: absolute;
+    color: white;
+    top: 199px;
+    left: 25px;
+    width: 402px;
+    height: 188px;
+    padding-left: 8px;
+    padding-top: 8px;
+    border-radius: 4%;
+    background: linear-gradient(23deg, rgba(218, 223, 225, 0.9), rgba(236, 240, 241, 0.3), rgba(238, 238, 238, 0.7), rgba(236, 240, 241, 0.4), rgba(218, 223, 225, 0.2));
+
+    animation-name: second-hello;
+    animation-duration: 5s;
+}
+
+
 #trial-container{
 position: absolute;
 left: 179px;
 top: 330px;
 
 animation-name: hi;
-animation-duration: 5s;
+animation-duration: 15s;
 }
 
 .trial-anchor{
@@ -234,8 +233,8 @@ footer{
 
 @keyframes  hello {
     0%   {opacity: 0;}
-    50%  {opacity: 90%;}
-    100% {opacity: 0;}
+    50%  {opacity: 0;}
+    100% {opacity: 1;}
   }
 
 a:hover{
@@ -257,11 +256,11 @@ a:hover{
 @keyframes moving-text{
     from{
       top: 92px;
-      left: 331px;
+      left: -580px;
     }
     to{
         top: 92px;
-        left: 592px;
+        left: 12px;
     }
 }
 
@@ -276,5 +275,6 @@ a:hover{
     0% {opacity: 0;}
     50% {opacity: 0;}
     80% {opacity: 0;}
-    100% {opacity: 90%;}
+    100% {opacity: 1;}
 }
+
