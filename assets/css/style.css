@@ -159,15 +159,17 @@ i{
 
 .countdown-headers{
     font-family: Audiowide, 'sans-serif';
-    margin-left: 74px;
+    margin-left: 79px;
     font-size: 30px;
     text-shadow: 0 0 1px black;
- 
+    margin-top: 27px;
+    padding-left: 6px;
+    
     animation-name: hello;
     animation-duration: 5s;
-    
 
 }
+
 #one{
     position: relative;
     height: 300px;
@@ -185,6 +187,7 @@ i{
     width: 217px;
     padding-top: 76px;
     text-align: center;
+    top: 81px;
 }
 
 #ready-second{
@@ -198,12 +201,17 @@ i{
     left: 257px;
     padding-top: 79px;
     text-align: center;
+    top: 81px;
 }
 
 #ready-image{
-    filter: grayscale(1);
-    height: 287px;
-    width: 350px;
+    position: absolute;
+    height: 312px;
+    width: 416px;
+    left: 550px;
+    border-radius: 15%;
+    opacity: 85%;
+    box-shadow: 6px -1px 0px red;
 }
 
 #set-image{
