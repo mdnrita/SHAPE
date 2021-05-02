@@ -163,7 +163,7 @@ i{
     font-family: Audiowide, 'sans-serif';
     margin-left: 79px;
     font-size: 30px;
-    text-shadow: 0 0 1px black;
+    text-shadow: 1px -1px 0px black;
     margin-top: 27px;
     padding-left: 6px;
     
@@ -171,6 +171,11 @@ i{
     animation-duration: 5s;
 
 }
+
+main{
+    height: 300px;
+}
+
 
 #one{
     position: relative;
