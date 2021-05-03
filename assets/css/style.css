@@ -67,6 +67,9 @@ a{
     margin-bottom: 9px;
     opacity: 100%;
 
+    animation-name: hello;
+    animation-duration: 5s;
+
 }
 
     /* Hero Image Heading Text */
@@ -110,8 +113,9 @@ a{
     position: absolute;
     left: 143px;
     top: 327px;
+    
     animation-name: hi;
-    animation-duration: 15s;
+    animation-duration: 10s;
 }
 
 .trial-anchor{
