@@ -53,19 +53,18 @@ a{
    
 /* Hero Image */
 #hero{
-    background-image: linear-gradient(88deg, rgba(246, 71, 71, 0.6), rgba(236, 100, 75, 1), rgba(240, 52, 52, 0.3));
-    
+    background-image: linear-gradient(88deg, rgb(255 79 79), rgb(255 132 132), rgb(255 255 255), rgb(255 255 255));
+
 }
+
 .hero-image{
     height: 341px;
     width: 738px;
-    margin-left: 499px;
-    padding-left: -3px;
-    border-radius: 39%;
-    box-shadow: 10px -1px 0px rgba(236, 100, 75, 0.7);
+    margin-left: 460px;
+    border-radius: 25%;
+    box-shadow: 5px 0px 1px rgb(255 40 0);
     margin-top: 15px;
     margin-bottom: 9px;
-    opacity: 100%;
 
     animation-name: hello;
     animation-duration: 5s;
@@ -75,15 +74,15 @@ a{
     /* Hero Image Heading Text */
 
 .show-first{
-            position: absolute;
-            top: 94px;
-            left: 12px;
-            height: 63px;
-            width: 566px;
-            padding-left: 16px;
-            padding-top: 14px;
-            font-style: italic;
-            color: white;
+    position: absolute;
+    top: 94px;
+    left: 71px;
+    height: 63px;
+    width: 566px;
+    padding-left: 16px;
+    padding-top: 14px;
+    font-style: italic;
+    color: white;
             
             animation-name: hello;
             animation-duration: 5s;
@@ -95,7 +94,7 @@ a{
     position: absolute;
     color: white;
     top: 210px;
-    left: 90px;
+    left: 110px;
     width: 281px;
     height: 173px;
     padding-top: 17px;
@@ -111,8 +110,8 @@ a{
 
 #trial-container{
     position: absolute;
-    left: 143px;
-    top: 327px;
+    left: 166px;
+    top: 331px;
     
     animation-name: hi;
     animation-duration: 10s;
