@@ -216,10 +216,25 @@ main{
     left: 550px;
     border-radius: 15%;
     opacity: 85%;
-    box-shadow: 3px 0px 1px red;
+    box-shadow: 7px 5px 0px red;
     border: 3px solid red;
     top: -40px;
 
+    animation: changeBg 15s infinite;
+}
+
+#second-ready-image{
+    position: absolute;
+    height: 312px;
+    width: 416px;
+    left: 550px;
+    border-radius: 15%;
+    opacity: 85%;
+    box-shadow: 7px 5px 0px red;
+    border: 3px solid red;
+    top: -40px;
+
+    animation: change 10s infinite;
 }
 
 #set-image{
@@ -339,3 +354,20 @@ a:hover{
     100% {opacity: 1;}
 }
 
+@keyframes changeBg
+{
+   0% {opacity:1;}
+   25% {opacity:0;} 
+   50%  {opacity:1;}
+   75% {opacity:1;}
+   100% {opacity:1;}
+
+}
+
+@keyframes change{
+    0% {opacity:1;}
+    25% {opacity:1;} 
+    50%  {opacity:0;}
+    75% {opacity:0;}
+    100% {opacity:1;}
+}
