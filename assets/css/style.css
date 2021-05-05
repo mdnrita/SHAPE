@@ -154,12 +154,11 @@ i{
 
 #ready-icon{
     position: absolute;
-    font-size: 45px;
-    left: 82px;
-    top: 15px;
-
-
+    font-size: 39px;
+    left: 54px;
+    top: 10px;
 }
+
 
 .countdown-headers{
     font-family: Audiowide, 'sans-serif';
@@ -171,47 +170,36 @@ i{
     
     animation-name: hello;
     animation-duration: 5s;
-
 }
-
-main{
-    height: 300px;
-}
-
 
 #one{
-    position: relative;
-    height: 300px;
-    width: auto;
-    display: inline-block;
-    margin-left: 150px;
+    height: 500px;
 }
 
 #ready-head{
-    position: absolute;
-    border-left: 4px solid red;
-    padding-left: -1px;
-    background-image: linear-gradient(24deg, rgb(109 109 109 / 40%), rgb(232 227 226 / 58%), rgb(187 187 187 / 34%), rgb(234 227 227 / 95%));
-    height: 186px;
-    box-shadow: 3px 1px 5px black;
-    width: 217px;
-    padding-top: 76px;
     text-align: center;
-    top: 10px;
+    font-family: 'Audiowide', 'sans-serif';
+    font-size: 15px;
+    text-transform: uppercase;
 }
 
-#ready-second{
-    position: absolute;
-    border-left: 4px solid red;
-    padding-left: 2px;
-    background-image: linear-gradient(24deg, rgb(109 109 109 / 40%), rgb(232 227 226 / 58%), rgb(187 187 187 / 34%), rgb(234 227 227 / 95%));
-    height: 186px;
-    box-shadow: 3px 1px 5px black;
-    width: 217px;
-    left: 257px;
-    padding-top: 79px;
+#ready-column{
+    height: 350px;
+    
+
+}
+
+
+#set-head{
     text-align: center;
-    top: 10px;
+    font-family: 'Audiowide', 'sans-serif';
+    font-size: 15px;
+    text-transform: uppercase;
+}
+
+#slideshow{
+    position: relative;
+    height: 350px;
 }
 
 #ready-image{
@@ -223,7 +211,6 @@ main{
     opacity: 85%;
     box-shadow: 7px 5px 0px red;
     border: 3px solid red;
-    top: -40px;
 
     animation: changeBg 15s infinite;
 }
@@ -232,18 +219,12 @@ main{
     position: absolute;
     height: 312px;
     width: 416px;
-    left: 550px;
     border-radius: 15%;
     opacity: 85%;
     box-shadow: 7px 5px 0px red;
     border: 3px solid red;
-    top: -40px;
 
     animation: change 10s infinite;
-}
-
-#set-image{
-    width: 362px;
 }
 
 table{
@@ -252,9 +233,6 @@ table{
     background-image: linear-gradient(24deg, rgb(146 145 145 / 62%), rgb(232 227 226 / 58%), rgb(187 187 187 / 34%), rgb(173 167 167 / 42%));
     border-left: 4px solid red;
     box-shadow: 6px 3px 6px black;
-    position: absolute;
-    left: 16px;
-
 }
 
 th{
@@ -271,7 +249,6 @@ th, td{
     box-shadow: -2px -1px 4px;
 
 }
-
 
 .review-image{
     border-radius: 50%;
