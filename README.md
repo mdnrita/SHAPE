@@ -173,14 +173,14 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
 
 #### Main Languages Used
 
-- image [HTML5] links to wikipedia. short explanation about technology.
+- ![HTML5](assets/images/html-icon.png) [HTML5](https://nl.wikipedia.org/wiki/HTML5) links to wikipedia. short explanation about technology.
 
-- image [CSS3] links to wikipedia. short explanation about technology.
+- ![CSS3](assets/images/css-icon.png) [CSS3](https://en.wikipedia.org/wiki/CSS) links to wikipedia. short explanation about technology.
 
 #### Additional Languages Used
 
 #### Frameworks, Libraries & Programs Used
-Bootstrap
+![Bootstrap](assets/images/bootstrap-icon.png)[Bootstrap](https://getbootstrap.com/)
 Bootstrap was used to implement the responsiveness of the site, using bootstrap classes.
 Google Fonts
 Google fonts was used to import the fonts "Roboto", "Lato" and "Montserrat" into the style.css file. These fonts were used throughout the project.
