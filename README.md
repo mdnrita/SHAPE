@@ -171,15 +171,17 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
 
 # [Technologies Used](#technologies-used)
 
-#### Main Languages Used
+### 1.Main Languages Used
 
-- ![HTML5](assets/images/html-icon.png) [HTML5](https://nl.wikipedia.org/wiki/HTML5) links to wikipedia. short explanation about technology.
+- ![HTML5](assets/images/html-icon.png) [HTML5](https://nl.wikipedia.org/wiki/HTML5) or
+HyperText Markup Language is a markup language used for structuring and presenting content on the World Wide Web.
+- ![CSS3](assets/images/css-icon.png) [CSS3](https://en.wikipedia.org/wiki/CSS) or Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML.
 
-- ![CSS3](assets/images/css-icon.png) [CSS3](https://en.wikipedia.org/wiki/CSS) links to wikipedia. short explanation about technology.
+### 2.Additional Languages Used
 
-#### Additional Languages Used
+- (image) Java Script link. often abbreviated as JS, is a programming language that conforms to the ECMAScript specification. This language was used to allow the responsiveness of the Navigation Bar once it is viewed on smaller resolution devices.
 
-#### Frameworks, Libraries & Programs Used
+#### 3.Frameworks, Libraries & Programs Used
 ![Bootstrap](assets/images/bootstrap-icon.png)[Bootstrap](https://getbootstrap.com/)
 Bootstrap was used to implement the responsiveness of the site, using bootstrap classes.
 Google Fonts
