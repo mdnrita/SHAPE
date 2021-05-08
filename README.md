@@ -1,3 +1,6 @@
+## amiresponsive image
+
+[Link of Live Project](https://)
 # [Table of contents](#table-of-contents)
 ### 1. [Introduction](#introduction)
 ### 2. [UX](#ux)
@@ -28,47 +31,44 @@
 #
 
 # [Introduction](#introduction) 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+
+# SHAPE
+
+SHAPE is a fictional gym based in Rotterdam, aiming to promote Outdoor exercise. Due to COVID-19 restrictions gyms have been temporarily closed, leaving many of its clients with no other options to workout. This site will target current clients, introducing a new area where they can Login into their account. It will target also potential costumers, who are curious to know more details about the classes, location and more information about the Trainers. 
 
 [Back to Top&#8593;](#table-of-contents) 
 #
 
 # [UX](#ux)
 ## Ideal User Demographic
- The ideal user of this website is:
-- Potential Costumers
+The ideal user of this website is:
 - Current Costumers
+- Potential Costumer
 
 ## User Stories
+
+#### Current Costumers Goals:
+
+- As a current costumer, I want to know the sessions schedule, so that I could possibly book a workout.
+
+- As a current costumer, I want to have acess to my login access area, so that I can know all the details regarding my subscription.
+
+- As a current costumer, I want to be able to contact the Trainers, so that I could ask for advice and recommendatios regarding the Sessions.
 
 #### Potential Costumer Goals:
 
 - As a potential costumer, I want to know what services this gym offers, so that I could possibly join.
 
-- As a potential costumer, I want to have access to the gym contacts, so that I could get in touch easily.
+- As a potential costumer, I want to be able to get in touch, so that I could ask a question or clarify any doubts.
 
-- As a potential costumer, I want to be able to Book a Trial, so that I can experience SHAPE first-hand without compremise. 
+- As a potential costumer, I want to be able to book a trial, so that I can experience SHAPE without compromise. 
 
-- As a potential costumer, I would like to know more about the Trainers beforehand, in order to know more about their background.
+- As a potential costumer, I would like to more about the Trainers, so that I can be familiarized with their background..
 
-- As a potential costumer, I want to know what reviews SHAPE has, so that I know how were other experiences like.
-
-
-#### Current Costumers Goals:
-
-- As a current costumer, I want to information about the sessions, so that I could possibly book a workout.
-
-- As a current costumer, I want to have acess to my login access area, so that I could check all the details related to my subscription.
-
-- As a current costumer, I want to ...
-
-- As a current costumer, I want to ...
-
-- As a current costumer, I want to ... 
-
+- As a potential costumer, I want to know SHAPE's reviews, so that I know how were other experiences like.
 
 ## Development Planes
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+In order to achieve a comprehensive and informative website User Experience methodology was implemented to help research and layout the project structure. 
 
 ### Strategy
 
