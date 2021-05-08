@@ -1,7 +1,7 @@
 ## amiresponsive image
 
 [Link of Live Project](https://)
-# [Table of contents](#table-of-contents)
+## [Table of contents](#table-of-contents)
 ### 1. [Introduction](#introduction)
 ### 2. [UX](#ux)
 -  #### Ideal User Demographic
@@ -72,42 +72,40 @@ In order to achieve a comprehensive and informative website User Experience meth
 
 ### Strategy
 
+The main goal of this project is to create a responsive and informative website to reach SHAPE's costumers and potential costumers. It is of high importance to make an easy to navigate layout and only have the most relevant content displayed so the user has a quick and learning interaction. 
 
-Who will this website target/reach?
-
-This website is built for those who are looking for outdoor exercice sessions. text text text
+1. Purpose of this website is to introduce current clients to the new Login area and Blog.
 
 - #### Roles:
-   - role1
-   - role2
-   - role3
+   - Current Costumers
+   - Potential Costumers
+   - People who workout Outdoors
 
-- #### Demographics:
-   - demo1
-   - demo2
-   - demo3
+- #### Age Target:
+   - 25 to 50 years old
 
 - ### Psychographics
 
-- #### Personality & Attitudes:
-   - text
-   - text
-   - text
-   - text
+- #### Personality:
+   - Enjoys challenges
+   - Interested in fitness content
+   - Likes to workout outdoors
 
 - #### Values:
-   - value1 
-   - value2
-   - value3
-   - value4
+   - Goal-oriented
+   - Active lifestyle
+   - Seeking Self-Accomplishment and Growth
 
 - #### Lifestyles:
-   - text
-   - text
-   - text 
-   - text
+   - Structured and routine like
+   - Fast paced
+   - Fitness enthusiastic
 
 ### Website Goals:
+
+1. Purpose of this website is to introduce current clients to the new Login area and Blog.
+2. d
+
 
 #### The website needs to enable the user to:
 - Know about what services are offered
