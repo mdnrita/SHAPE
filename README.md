@@ -6,7 +6,7 @@
 
 # SHAPE
 
-SHAPE is a fictional gym based in Rotterdam, aiming to promote Outdoor exercise. Due to COVID-19 restrictions gyms have been temporarily closed, leaving many of its clients with no other options to workout. This site will target current clients, introducing a new area where they can Login into their account. It will target also potential costumers, who are curious to know more details about the classes, location and more information about the Trainers. 
+*SHAPE* is a fictional gym based in Rotterdam, aiming to promote Outdoor exercise. Due to COVID-19 restrictions gyms have been temporarily closed, leaving many of its clients with no other options to workout. This site will target current clients, introducing a new area where they can Login into their account. It will target also potential costumers, who are curious to know more details about the classes, location and more information about the Trainers. 
 
 [Back to Top&#8593;](#table-of-contents) 
 #
@@ -42,7 +42,7 @@ The ideal user of this website is:
 ## Development Planes
 In order to achieve a comprehensive and informative website User Experience methodology was implemented to help research and layout the project structure. 
 
-### Strategy
+### Strategy Plane
 
 The main goal of this project is to create a responsive and informative website to reach SHAPE's costumers and potential costumers. It is of high importance to make an easy to navigate layout and only have the most relevant content displayed so the user has a quick and learning interaction. 
 
@@ -53,8 +53,6 @@ The main goal of this project is to create a responsive and informative website 
 
 - #### Age Target:
    - 25 to 50 years old
-
-- ### Psychographics
 
 - #### Personality:
    - Enjoys challenges
@@ -85,23 +83,31 @@ The main goal of this project is to create a responsive and informative website 
     - Have a community platform
     - Possibly reach more users
 
+*A Strategy Table was created to determine the trade-off between Importance and Viability/Feasibility with the following results:*
+
 | Opportunity/Problem   | Importance    | Viability/Feasibility|
 | ---------------------:| -------------:| --------------------:|
-| Have a presence online| 5| 5||
+| Have a Presence Online| 5| 5||
 | Increase Value Experience| 5| 4
-| Communicate services offered| 5| 5|
-| Build connection with User| 5| 4|
+| Communicate Services Offered| 5| 5|
+| Display Informative Content| 4| 4|
+
+### Scope Plane
+
+A Scope was conducted in order to determine the Content and Features needed on the Website. 
+
+- **Content Requirements**
+    - Introduce users to SHAPE
+    - Promote classes and Introduce Trainers  
+    - Indicate location of the classes
+    - Ability for Users to Book a Trial
+    - Contact details
+    - Social links
+
+- **Functionality Requirements**
+   
 
 
-### Scope
-
-Content Requirements
-
-The user will be looking for:
-
-Functionality Requirements
-
-The user will be able to:
 
 ### Structure
 
