@@ -1,36 +1,36 @@
 ## amiresponsive image
 
 [Link of Live Project](https://)
-## [Table of contents](#table-of-contents)
-### 1. [Introduction](#introduction)
-### 2. [UX](#ux)
--  #### Ideal User Demographic
--  #### User Stories
--  #### Development Planes
--  #### Design
-### 3. [Features](#features) 
--  #### Design Features
--  #### Existing Features
--  #### Future Features
-### 4. [Issues and Bugs](#issues-and-bugs)
-### 5. [Technologies Used](#technologies-used)
--  #### Main Languages Used
--  #### Additional Languages Used
--  #### Frameworks, Libraries & Programs Used
-### 6. [Testing](#testing)
-- #### Testing.md
-### 7. [Deployment](#deployment)
-- #### Deploying on GitHub Pages
-- #### Forking the Repository
-- #### Creating a Clone
-### 8. [Credits](#credits)
-- #### Content
-- #### Media
-- #### Code
-## 9. [Acknowledgements](#acknowledgments)
+# [Table of contents](#table-of-contents)
+### 1. [Introduction](#Introduction)
+### 2. [UX](#UX)
+-  [Ideal User Demographic](#Ideal-User-Demographic)
+- [User Stories](#User-Stories)
+- [Development Planes](#Development-Planes)
+- [Design](#Design)
+### 3. [Features](#Features) 
+-  [Design Features](#Design-Features)
+-  [Existing Features](#Existing-Features)
+-  [Future Features](#Future-Features)
+### 4. [Issues and Bugs](#Issues-and-Bugs)
+### 5. [Technologies Used](#Technologies-Used)
+- [Main Languages Used](#Main-Languages-Used)
+- [Additional Languages Used](#Additional-languages-Used)
+-  [Frameworks, Libraries & Programs Used](#Frameworks-Libraries-&-Programs-Used)
+### 6. [Testing](#Testing)
+### 7. [Deployment](#Deployment)
+- [Deploying on GitHub Pages](#Deploying-on-GitHub-Pages)
+- [Forking the Repository](#Forking-the-Repository)
+- [Creating a Clone](#Creating-a-Clone)
+### 8. [Credits](#Credits)
+- [Content](#Content)
+- [Media](#Media)
+- [Code](#Code)
+## 9. [Acknowledgements](#Acknowledgments)
+#
 #
 
-# [Introduction](#introduction) 
+# Introduction 
 
 # SHAPE
 
@@ -39,7 +39,7 @@ SHAPE is a fictional gym based in Rotterdam, aiming to promote Outdoor exercise.
 [Back to Top&#8593;](#table-of-contents) 
 #
 
-# [UX](#ux)
+# UX
 ## Ideal User Demographic
 The ideal user of this website is:
 - Current Costumers
@@ -149,7 +149,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
 [Back to Top&#8593;](#table-of-contents) 
 #
 
-# [Features](#features)
+# Features
 
 #### Design Features
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo 
@@ -159,27 +159,29 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
 
 #### Future Features
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo 
+
 [Back to Top&#8593;](#table-of-contents) 
 #
 
-# [Issues and Bugs](#issues-and-bugs)
+# Issues and Bugs
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui.
+
 [Back to Top&#8593;](#table-of-contents) 
 #
 
-# [Technologies Used](#technologies-used)
+# Technologies Used
 
-### 1.Main Languages Used
+### Main Languages Used
 
 - ![HTML5](assets/images/html-icon.png) [HTML5](https://nl.wikipedia.org/wiki/HTML5) or
 HyperText Markup Language is a markup language used for structuring and presenting content on the World Wide Web.
 - ![CSS3](assets/images/css-icon.png) [CSS3](https://en.wikipedia.org/wiki/CSS) or Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML.
 
-### 2.Additional Languages Used
+### Additional Languages Used
 
 - (image) Java Script link. often abbreviated as JS, is a programming language that conforms to the ECMAScript specification. This language was used to allow the responsiveness of the Navigation Bar once it is viewed on smaller resolution devices.
 
-#### 3.Frameworks, Libraries & Programs Used
+#### Frameworks, Libraries & Programs Used
 ![Bootstrap](assets/images/bootstrap-icon.png)[Bootstrap](https://getbootstrap.com/)
 Bootstrap was used to implement the responsiveness of the site, using bootstrap classes.
 Google Fonts
@@ -204,23 +206,47 @@ Am I Responsive was used in order to see responsive design throughout the proces
 
 - image [GitPod] - Main workspace IDE (Integrated Development Environment)
 
-- mage [Git] - Distributed Version Control tool to store versions of files and track changes.
+- mage [Git] - Distributed Vgiersion Control tool to store versions of files and track changes.
 
 - image [GitHub] - A cloud-based hosting service to manage my Git repositories.
 
 
-# [Testing](#testing)
+# Testing
+
+testing.md
+
 [Back to Top&#8593;](#table-of-contents) 
 #
 
-# [Deployment](#deployment)
+# Deployment
+
+### Deploying on GitHub Pages
+#
+
+### Forking the Repository
+#
+
+### Creating a Clone
+#
+
 [Back to Top&#8593;](#table-of-contents) 
 #
 
-# [Credits](#credits)
+# Credits
+
+### Content
+#
+### Media
+#
+### Code
+#
+
+
 [Back to Top&#8593;](#table-of-contents) 
 #
 
-# [Acknowledgments](#acknowledgments)
+# Acknowledgments
 [Back to Top&#8593;](#table-of-contents) 
 #
+
+
