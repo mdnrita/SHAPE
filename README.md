@@ -1,35 +1,7 @@
-## amiresponsive image
+ amiresponsive image
 
 [Link of Live Project](https://)
-# [Table of contents](#table-of-contents)
-### 1. [Introduction](#Introduction)
-### 2. [UX](#UX)
--  [Ideal User Demographic](#Ideal-User-Demographic)
-- [User Stories](#User-Stories)
-- [Development Planes](#Development-Planes)
-- [Design](#Design)
-### 3. [Features](#Features) 
--  [Design Features](#Design-Features)
--  [Existing Features](#Existing-Features)
--  [Future Features](#Future-Features)
-### 4. [Issues and Bugs](#Issues-and-Bugs)
-### 5. [Technologies Used](#Technologies-Used)
-- [Main Languages Used](#Main-Languages-Used)
-- [Additional Languages Used](#Additional-languages-Used)
--  [Frameworks, Libraries & Programs Used](#Frameworks-Libraries-&-Programs-Used)
-### 6. [Testing](#Testing)
-### 7. [Deployment](#Deployment)
-- [Deploying on GitHub Pages](#Deploying-on-GitHub-Pages)
-- [Forking the Repository](#Forking-the-Repository)
-- [Creating a Clone](#Creating-a-Clone)
-### 8. [Credits](#Credits)
-- [Content](#Content)
-- [Media](#Media)
-- [Code](#Code)
-## 9. [Acknowledgements](#Acknowledgments)
 #
-#
-
 # Introduction 
 
 # SHAPE
@@ -74,8 +46,6 @@ In order to achieve a comprehensive and informative website User Experience meth
 
 The main goal of this project is to create a responsive and informative website to reach SHAPE's costumers and potential costumers. It is of high importance to make an easy to navigate layout and only have the most relevant content displayed so the user has a quick and learning interaction. 
 
-1. Purpose of this website is to introduce current clients to the new Login area and Blog.
-
 - #### Roles:
    - Current Costumers
    - Potential Costumers
@@ -103,19 +73,25 @@ The main goal of this project is to create a responsive and informative website 
 
 ### Website Goals:
 
-1. Purpose of this website is to introduce current clients to the new Login area and Blog.
-2. d
+1. Introduce current clients to the new Login area and Blog
+2. Communicate what type of workout and schedules the gym offers
+3. Familiarize the Trainers with website visitors
+4. Create a Blog area that is informative to users on fitness related articles
+5. Build connection with the user 
 
+- #### Website enables *SHAPE* to:
+    - Have a presence online
+    - Promote their services
+    - Have a community platform
+    - Possibly reach more users
 
-#### The website needs to enable the user to:
-- Know about what services are offered
-- Inform about classes location and schedules
-- Introduce Trainers to users
+| Opportunity/Problem   | Importance    | Viability/Feasibility|
+| ---------------------:| -------------:| --------------------:|
+| Have a presence online| 5| 5||
+| Increase Value Experience| 5| 4
+| Communicate services offered| 5| 5|
+| Build connection with User| 5| 4|
 
-#### The website needs to enable SHAPE to:
-- Promote their services
-- text 
-- text
 
 ### Scope
 
@@ -140,11 +116,17 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo 
 
 #### Typography
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo 
+Two type of Fonts were imported from Google Fonts. [Audiowide](https://fonts.google.com/specimen/Audiowide) was used for Headers content, having a bigger weight and bold feeling causing a contrast with the lightness of [Montserrat](https://fonts.google.com/specimen/Montserrat) which was used for main text content. 
 
 
 #### Images
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo 
+Lost link to hero image.
+
+[Review Image 1](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxijXW82ZpZwGVAhkTffY_nc5vcwTyb8kOF4LTm61EdX4PuQ6ZgDIBDMnePtN2qiR4IzI&usqp=CAU)
+
+[Revie Image 2](https://www.google.com/imgres?imgurl=http%3A%2F%2Fjoyfuljourneyhotsprings.com%2Fwp-content%2Fuploads%2F2013%2F07%2Fphotodune-4276142-smiling-portraits-xl_411.jpg&imgrefurl=http%3A%2F%2Fjoyfuljourneyhotsprings.com%2Fphotodune-4276142-smiling-portraits-xl_41%2F&tbnid=UvdalxaHs5escM&vet=10CBkQxiAoBWoXChMI-KX_hfiS8AIVAAAAAB0AAAAAEAI..i&docid=V3TPYEo3PZDusM&w=760&h=758&itg=1&q=face%20portrait%20smile&ved=0CBkQxiAoBWoXChMI-KX_hfiS8AIVAAAAAB0AAAAAEAI)
+
+
 
 [Back to Top&#8593;](#table-of-contents) 
 #
@@ -152,19 +134,19 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
 # Features
 
 #### Design Features
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo 
+....
 
 #### Existing Features
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo 
+....
 
 #### Future Features
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo 
+....
 
 [Back to Top&#8593;](#table-of-contents) 
 #
 
 # Issues and Bugs
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui.
+....
 
 [Back to Top&#8593;](#table-of-contents) 
 #
@@ -182,34 +164,29 @@ HyperText Markup Language is a markup language used for structuring and presenti
 - (image) Java Script link. often abbreviated as JS, is a programming language that conforms to the ECMAScript specification. This language was used to allow the responsiveness of the Navigation Bar once it is viewed on smaller resolution devices.
 
 #### Frameworks, Libraries & Programs Used
-![Bootstrap](assets/images/bootstrap-icon.png)[Bootstrap](https://getbootstrap.com/)
-Bootstrap was used to implement the responsiveness of the site, using bootstrap classes.
-Google Fonts
-Google fonts was used to import the fonts "Roboto", "Lato" and "Montserrat" into the style.css file. These fonts were used throughout the project.
-Font Awesome
-Font Awesome was used on all pages throughout the website to import icons (e.g. social media icons) for UX purposes.
-Git
-Git was used for version control by utilizing the GitPod terminal to commit to Git and push to GitHub.
-GitHub
-GitHub was used to store the project after pushing
-Figma
-Figma was used to create the wireframes during the design phase of the project.
-Am I Responsive?
-Am I Responsive was used in order to see responsive design throughout the process and to generate mockup imagery to be used.
--  image [Bootstrap] links to wiki. short explanation.
+- ![Bootstrap](assets/images/bootstrap-icon.png) [Bootstrap4](https://getbootstrap.com/) was used to implement the responsiveness of the site.
 
-- image [FontAwesome]  Icons for Social Media links in Footer.
+-[Google Fonts]() Google fonts ...
 
-- image [Google Fonts]  Overall Typography import.
+- [Font Awesome]() Font Awesome was used on all pages throughout the website to import icons (e.g. social media icons) for UX purposes.
 
-3. Workspace, version control and Repository storage
+- [Git]()Git was used for version control by utilizing the GitPod terminal to commit to Git and push to GitHub.
+
+- [GitHub]()GitHub was used to store the project after pushing
+
+- [Figma]()Figma was used to create the wireframes during the design phase of the project.
+
+- [Am I Responsive?]() Am I Responsive was used in order to see responsive design throughout the process and to generate mockup imagery to be used.
+
+
+#### Workspace, version control and Repository storage
 
 - image [GitPod] - Main workspace IDE (Integrated Development Environment)
 
-- mage [Git] - Distributed Vgiersion Control tool to store versions of files and track changes.
+- image [Git] - Distributed Vgiersion Control tool to store versions of files and track changes.
 
 - image [GitHub] - A cloud-based hosting service to manage my Git repositories.
-
+#
 
 # Testing
 
