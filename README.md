@@ -121,13 +121,13 @@ A Scope was conducted in order to determine the Content and Features needed on t
 
 ### Design
 
-#### Colours
+#### *Colours*
 image with colour swatches
 
-#### Typography
+#### *Typography*
 Two type of Fonts were imported from Google Fonts. [Audiowide](https://fonts.google.com/specimen/Audiowide) was used for Headers content, having a bigger weight and bold feeling causing a contrast with the lightness of [Montserrat](https://fonts.google.com/specimen/Montserrat) which was used for main text content. 
 
-### Images
+### *Images*
 Lost link to hero image.
 
 [Review Image 1](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxijXW82ZpZwGVAhkTffY_nc5vcwTyb8kOF4LTm61EdX4PuQ6ZgDIBDMnePtN2qiR4IzI&usqp=CAU)
@@ -138,13 +138,13 @@ Lost link to hero image.
 
 # Features
 
-#### Design Features
+#### *Design Features*
 ....
 
-#### Existing Features
+#### *Existing Features*
 ....
 
-#### Future Features
+#### *Future Features*
 ....
 
 #
@@ -156,39 +156,56 @@ Lost link to hero image.
 
 # Technologies Used
 
-### Main Languages Used
+### *Main Languages Used*
 
-- ![HTML5](assets/images/html-icon.png) [HTML5](https://nl.wikipedia.org/wiki/HTML5) or
+- ![HTML5](assets/images/html-icon.png)  [HTML5](https://nl.wikipedia.org/wiki/HTML5) 
+
 HyperText Markup Language is a markup language used for structuring and presenting content on the World Wide Web.
-- ![CSS3](assets/images/css-icon.png) [CSS3](https://en.wikipedia.org/wiki/CSS) or Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML.
 
-### Additional Languages Used
+- ![CSS3](assets/images/css-icon.png)  [CSS3](https://en.wikipedia.org/wiki/CSS) 
 
-- (image) Java Script link. often abbreviated as JS, is a programming language that conforms to the ECMAScript specification. This language was used to allow the responsiveness of the Navigation Bar once it is viewed on smaller resolution devices.
+Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML.
 
-#### Frameworks, Libraries & Programs Used
-- ![Bootstrap](assets/images/bootstrap-icon.png) [Bootstrap4](https://getbootstrap.com/) was used to implement the responsiveness of the site.
+### *Additional Languages Used*
 
--[Google Fonts]() Google fonts ...
+- ![JavaScript]()  [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
 
-- [Font Awesome]() Font Awesome was used on all pages throughout the website to import icons (e.g. social media icons) for UX purposes.
+Often abbreviated as JS, is a programming language that conforms to the ECMAScript specification. This language was used to allow the responsiveness of the Navigation Bar once it is viewed on smaller resolution devices.
 
-- [Git]()Git was used for version control by utilizing the GitPod terminal to commit to Git and push to GitHub.
+#### *Frameworks, Libraries & Programs Used*
+- ![Bootstrap](assets/images/bootstrap-icon.png)  [Bootstrap4](https://getbootstrap.com/)
 
-- [GitHub]()GitHub was used to store the project after pushing
+Was used to help achieve responsiveness of the website.
 
-- [Figma]()Figma was used to create the wireframes during the design phase of the project.
+- ![Google Fonts]() Two [Google Fonts](https://fonts.google.com/) -
 
-- [Am I Responsive?]() Am I Responsive was used in order to see responsive design throughout the process and to generate mockup imagery to be used.
+Were imported and used for Header and general text content.
 
+- ![Font Awesome]() [Font Awesome](https://fontawesome.com/) 
 
-#### Workspace, version control and Repository storage
+Icons were used to aid text content visusally. The icons were also used to display Social Links.
 
-- image [GitPod] - Main workspace IDE (Integrated Development Environment)
+- ![Figma]() [Figma](https://www.figma.com/) -
 
-- image [Git] - Distributed Vgiersion Control tool to store versions of files and track changes.
+Was used to create Skeleton page and the Wireframes during the design phase of the project.
 
-- image [GitHub] - A cloud-based hosting service to manage my Git repositories.
+- ![Am I Responsive?]() [Am I Responsive](http://ami.responsivedesign.is/)
+
+Was used in order to see responsive design throughout the process and to generate mockup imagery to be used.
+
+#### *Workspace, version control and Repository storage*
+
+- ![GitPod]() [GitPod](https://gitpod.io) 
+
+Main workspace IDE (Integrated Development Environment)
+
+- ![Git]()[Git](https://git-scm.com/) 
+
+Distributed Vgiersion Control tool to store versions of files and track changes.
+
+- [GitHub]() [GitHub](https://github.com/)
+
+A cloud-based hosting service to manage my Git repositories.
 #
 
 # Testing
@@ -199,24 +216,24 @@ testing.md
 
 # Deployment
 
-### Deploying on GitHub Pages
+### *Deploying on GitHub Pages*
 #
 
-### Forking the Repository
+### *Forking the Repository*
 #
 
-### Creating a Clone
+### *Creating a Clone*
 #
 
 #
 
 # Credits
 
-### Content
+### *Content*
 #
-### Media
+### *Media*
 #
-### Code
+### *Code*
 #
 
 
