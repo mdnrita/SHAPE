@@ -105,6 +105,11 @@ A Scope was conducted in order to determine the Content and Features needed on t
     - Social links
 
 - **Functionality Requirements**
+    - Responsive and easy to navigate layout
+    - Simple and informative content 
+    - Appealing design
+    - Increase interaction with users
+    - Call-to-Action effectiveness
    
 
 
