@@ -168,8 +168,7 @@ i{
     margin-top: 27px;
     padding-left: 6px;
     
-    animation-name: hello;
-    animation-duration: 5s;
+  
 }
 
 #one{
@@ -286,12 +285,6 @@ top: 167px;
 footer{
     background-color: rgba(246, 71, 71, 0.4);
 }
-
-@keyframes  hello {
-    0%   {opacity: 0;}
-    50%  {opacity: 0;}
-    100% {opacity: 1;}
-  }
 
 a:hover{
     background: linear-gradient(20deg, rgb(250, 121, 0), rgba(233, 210, 3, 0.952), rgb(236, 100, 58));
