@@ -119,7 +119,7 @@ a{
 }
         /*Outdoor Workout Sessions Header*/
 .outdoor-heading{
-    background-color: rgba(246, 71, 71, 0.4);
+    background-image: linear-gradient(white, #ff7e7e);
     margin-top: 17px;
     margin-left: 42px;
     padding-left: 26px;
@@ -150,14 +150,21 @@ i{
 }
         /*Height of first section*/
 #one{
-    height: 500px;
+    height: 370px;
 }
         /*Benefits Text*/
 #benefits{
-    background-color: #fbb5b7;
+    height: 240px;
+    width: auto;
+    background-image: linear-gradient(to right, #f54554f7, #f97a82a1);
+    margin-top: 15px;
     text-align: center;
-    font-size: 15px;
+    font-size: 20px;
     text-transform: uppercase;
+    padding-top: 13px;
+    border-radius: 8%;
+    box-shadow: -1px 0px 6px black;
+
 }
 
 #set-head{
