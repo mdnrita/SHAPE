@@ -79,7 +79,7 @@ a{
     color: white;
             
     animation-name: moving-text;
-    animation-duration: 4s ease-in-out;
+    animation-duration: 4s;
 }
         /*Hero Image Secondary Header*/
 .show-later{
@@ -91,12 +91,12 @@ a{
     height: 226px;
     padding-top: 27px;
     border-radius: 18%;
-    background: linear-gradient(-128deg, rgb(194 198 199 / 0%), rgb(236 240 241 / 37%), rgb(238 238 238 / 29%), rgb(236 240 241 / 15%), rgb(218 223 225 / 20%));
+    background: linear-gradient(-156deg, rgb(181 173 173), rgb(134 123 123 / 61%), rgb(220 213 213), rgb(140 133 133 / 45%), rgb(142 136 136 / 37%));
     font-size: 24px;
     text-transform: uppercase;
-    text-shadow: -1px 0px 2px black;
+    text-shadow: -2px -1px 3px black;
     text-align: center;
-    box-shadow: 0px 0px 7px white;
+    box-shadow: -1px 2px 7px white;
    
     animation-name: second-hello;
     animation-duration: 5s;
@@ -104,8 +104,8 @@ a{
         /*Book a Trial Container Position */
 #trial-container{
     position: absolute;
-    left: 176px;
-    top: 301px;
+    left: 174px;
+    top: 298px;
     
     animation-name: hi;
     animation-duration: 10s;
@@ -122,7 +122,7 @@ a{
     padding-left: 24px;
     padding-top: 22px;
     box-shadow: 1px 3px 1px red;
-    background-color: #ff8384;
+    background-color: #f96c6d;
     border-radius: 48%;
 }
         /*Outdoor Workout Sessions Header*/
@@ -160,8 +160,12 @@ i{
     box-shadow: -3px 0px 2px;
     width: 600px;
 }
-        /*Height of first section*/
+        /*Height of First Section*/
 #one{
+    height: 290px;
+}
+        /*Height of Second Section*/
+#two{
     height: 290px;
 }
         /*Benefits Text*/
@@ -212,8 +216,9 @@ i{
 }
         /*Join our Classes Header*/
 #join-header{
-            font-size: 15px;
-            text-transform: uppercase;
+    position: relative;
+    font-size: 15px;
+    text-transform: uppercase;
 }
         /*Running Classes Span*/
 .classes-run{
@@ -242,7 +247,6 @@ i{
     background-image: linear-gradient(to bottom right, #ecebeb, #ff0100);
     text-shadow: 1px 1px 0px;
 }
-
         /*Classes Schedule*/
 table{
     height: 248px;
@@ -320,11 +324,11 @@ a:hover{
 @keyframes moving-text{
     from{
       top: 92px;
-      left: -580px;
+      left: -780px;
     }
     to{
-        top: 92px;
-        left: 12px;
+        top: 94px;
+        left: 71px;
     }
 }
 
