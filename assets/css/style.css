@@ -136,12 +136,12 @@ a{
 }
         /*Font Awesome Icons*/
 i{
-    color: red;
+    color: black;
 }
         /* Ready Set Go Header*/
 .countdown-headers{
     font-family: Audiowide, 'sans-serif';
-    margin-left: 79px;
+    margin-left: 40px;
     font-size: 25px;
     text-transform: uppercase;
     text-shadow: 1px -1px 0px black;
@@ -150,28 +150,21 @@ i{
 }
         /*Height of first section*/
 #one{
-    height: 370px;
+    height: 290px;
 }
         /*Benefits Text*/
 #benefits{
     height: 240px;
-    width: auto;
-    background-image: linear-gradient(to right, #f54554f7, #f97a82a1);
+    background-image: linear-gradient(to right, #f54554f7, #f97a82);
     margin-top: 15px;
-    text-align: center;
     font-size: 20px;
+    font-style: oblique;
+    padding-left: 26px;
     text-transform: uppercase;
     padding-top: 13px;
     border-radius: 8%;
     box-shadow: -1px 0px 6px black;
-
-}
-
-#set-head{
-    text-align: center;
-    font-family: 'Audiowide', 'sans-serif';
-    font-size: 15px;
-    text-transform: uppercase;
+    color: white;
 }
         /*Exercise Images*/
 #slideshow{
@@ -181,29 +174,54 @@ i{
         /*Image Woman Working out*/
 #ready-image{
     position: absolute;
-    height: 312px;
-    width: 416px;
-    left: 95px;
+    height: 274px;
+    width: 391px;
+    left: 86px;
     border-radius: 15%;
     opacity: 85%;
     box-shadow: 7px 5px 0px red;
     border: 3px solid red;
-
+    
     animation: changeBg 15s infinite;
 }
         /*Image Man Working out*/
 #second-ready-image{
     position: absolute;
-    height: 312px;
-    width: 416px;
-    right: 58px;
+    height: 274px;
+    width: 389px;
+    right: 94px;
     border-radius: 15%;
     opacity: 85%;
     box-shadow: 7px 5px 0px red;
     border: 3px solid red;
-
+    
     animation: change 10s infinite;
 }
+        /*Join our Classes Header*/
+#join-header{
+            font-size: 15px;
+            text-transform: uppercase;
+}
+        /*Running Classes Span*/
+.classes-run{
+    position: absolute;
+    height: 77px;
+    width: 100px;
+    background-color: red;
+    font-size: 21px;
+    text-align: center;
+}
+        /*Dumbell Classes Span*/
+.classes-dumbell{
+    position: absolute;
+    left: 157px;
+    height: 77px;
+    width: 100px;
+    background-color: red;
+    font-size: 21px;
+    text-align: center;
+}
+
         /*Classes Schedule*/
 table{
     height: 248px;
