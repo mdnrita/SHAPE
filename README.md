@@ -34,9 +34,9 @@ The ideal user of this website is:
 
 - As a potential costumer, I want to be able to book a trial, so that I can experience SHAPE without compromise. 
 
-- As a potential costumer, I would like to more about the Trainers, so that I can be familiarized with their background..
+- As a potential costumer, I would like to more about the Trainers, so that I can be familiarized with their background
 
-- As a potential costumer, I want to know SHAPE's reviews, so that I know how were other experiences like.
+- As a potential costumer, I want to know SHAPE's reviews, so that I know how were other experiences like
 
 ## Development Planes
 In order to achieve a comprehensive and informative website User Experience methodology was implemented to help research and layout the project structure. 
