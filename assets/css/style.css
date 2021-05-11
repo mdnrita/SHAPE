@@ -54,12 +54,12 @@ a{
 }
         /*Hero Image*/
 .hero-image{
-    height: 346px;
-    width: 716px;
-    margin-left: 479px;
+    height: 339px;
+    width: 711px;
+    margin-left: 526px;
     border-radius: 9%;
-    box-shadow: -2px -1px 5px rgb(0 0 0);
-    margin-top: 4px;
+    box-shadow: -2px 3px 16px rgb(140 140 140);
+    margin-top: 8px;
     opacity: 70%;
 
     margin-bottom: 5px;
@@ -70,10 +70,12 @@ a{
     position: absolute;
     top: 94px;
     left: 71px;
-    height: 63px;
-    width: 566px;
-    padding-left: 16px;
-    padding-top: 14px;
+    height: 76px;
+    width: 737px;
+    font-size: 40px;
+    text-shadow: -1px 0px 4px black;
+    padding-left: 1px;
+    padding-top: 13px;
     font-style: italic;
     color: white;
             
