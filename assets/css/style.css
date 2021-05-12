@@ -200,9 +200,10 @@ i{
         /*Image Woman Working out*/
 #ready-image{
     position: absolute;
-    height: 274px;
-    width: 391px;
-    left: 86px;
+    height: 359px;
+    width: 462px;
+    left: 34px;
+    top: -25px;
     border-radius: 15%;
     opacity: 85%;
     box-shadow: 7px 5px 0px red;
@@ -213,9 +214,10 @@ i{
         /*Image Man Working out*/
 #second-ready-image{
     position: absolute;
-    height: 274px;
-    width: 389px;
-    right: 94px;
+    height: 358px;
+    width: 461px;
+    top: -25px;
+    right: 74px;
     border-radius: 15%;
     opacity: 85%;
     box-shadow: 7px 5px 0px red;
@@ -229,19 +231,17 @@ i{
     font-size: 15px;
     text-transform: uppercase;
 }
-        /*Join Our Classes Left Container*/
-#join-header, h5{
-    background-color: gray;
-}
+
         /*Running Classes Span*/
 .classes-run{
     position: absolute;
-    height: 123px;
+    height: 190px;
     width: 123px;
-    right: 45px;
+    right: 150px;
+    border-radius: 9%;
     font-size: 22px;
     margin-top: 34px;
-    padding-top: 10px;
+    padding-top: 31px;
     color: white;
     text-align: center;
     box-shadow: 1px 1px 3px #929191;
@@ -251,17 +251,27 @@ i{
         /*Dumbell Classes Span*/
 .classes-dumbell{
     position: absolute;
-    left: 270px;
-    height: 152px;
-    width: 156px;
-    background-color: red;
-    font-size: 27px;
-    margin-top: 36px;
-    padding-top: 14px;
+    height: 190px;
+    width: 123px;
+    left: 100px;
+    font-size: 22px;
+    border-radius: 9%;
+    margin-top: 34px;
+    padding-top: 31px;
+    color: white;
     text-align: center;
-    box-shadow: -1px 1px 8px;
-    background-image: linear-gradient(to bottom right, #ecebeb, #ff0100);
-    text-shadow: 1px 1px 0px;
+    box-shadow: 1px 1px 3px #929191;
+    background-image: linear-gradient(to bottom right, #fb830887, #ff5961cc, #fea686);
+    text-shadow: -1px 0px 2px black;
+}
+        /*Youtube Video*/
+iframe{
+    width: 476px;
+    height: 269px;
+    position: absolute;
+    border: 11px solid #ff5961;
+    border-radius: 4%;
+    left: 27px;
 }
         /*Schedule Container*/
 #schedule{
