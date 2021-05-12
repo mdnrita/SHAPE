@@ -229,20 +229,24 @@ i{
     font-size: 15px;
     text-transform: uppercase;
 }
+        /*Join Our Classes Left Container*/
+#join-header, h5{
+    background-color: gray;
+}
         /*Running Classes Span*/
 .classes-run{
     position: absolute;
-    height: 152px;
-    width: 156px;
-    left: 80px;
-    background-color: red;
-    font-size: 27px;
-    margin-top: 37px;
-    padding-top: 13px;
+    height: 123px;
+    width: 123px;
+    right: 45px;
+    font-size: 22px;
+    margin-top: 34px;
+    padding-top: 10px;
+    color: white;
     text-align: center;
-    box-shadow: -1px 1px 8px;
-    background-image: linear-gradient(to bottom right, #ecebeb, #ff0100);
-    text-shadow: 1px 1px 0px black;
+    box-shadow: 1px 1px 3px #929191;
+    background-image: linear-gradient(to bottom right, #fb830887, #ff5961cc, #fea686);
+    text-shadow: -1px 0px 2px black;
 }
         /*Dumbell Classes Span*/
 .classes-dumbell{
