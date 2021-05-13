@@ -177,14 +177,15 @@ i{
         /*DIV containing benefits content*/
 #container-benefits{
     position: relative;
-    background-color: red;
     height: 289px;
 }
         /*Benefits Text*/
 #benefits{
     position: absolute;
     height: 197px;
-    width: 303px;
+    width: 304px;
+    top: 14px;
+    left: 6px;
     background-image: linear-gradient(to right, #f54554f7, #f97a82);
     margin-top: 15px;
     font-size: 14px;
@@ -196,6 +197,18 @@ i{
     border-radius: 8%;
     box-shadow: -1px 0px 6px black;
     color: white;
+}
+        /*Benefits Image*/
+#benefits-image{
+    height: 160px;
+    width: 212px;
+    position: absolute;
+    left: 329px;
+    top: 10px;
+    opacity: 90%;
+    border: 3px solid red;
+    border-radius: 8%;
+    box-shadow: 2px -1px 0px red;
 }
         /*Exercise Images*/
 #slideshow{
@@ -235,7 +248,6 @@ i{
     position: relative;
     font-size: 15px;
     text-transform: uppercase;
-    background-color: #646964a1;
     height: 190px;
 }
 
@@ -257,7 +269,7 @@ i{
 }
         /*Running Class Description*/
 .running-text{
-    background-color: #e17b65;
+    background-image: linear-gradient(to bottom right, #fb830887, #ff5961cc, #fea686);
     position: absolute;
     width: 142px;
     right: 219px;
@@ -292,6 +304,36 @@ i{
     position: absolute;
     width: 145px;
     left: 60px;
+    padding-top: 16px;
+    text-align: center;
+    font-size: 19px;
+    height: 105px;
+    top: 57px;
+    color: white;
+    text-shadow: 0px 2px 4px black;
+    border-radius: 7%;
+}
+        /*Biking Classes Span*/
+.classes-bike{
+    background-image: linear-gradient(to bottom right, #fb830887, #ff5961cc, #fea686);
+    position: absolute;
+    width: 142px;
+    left: 356px;
+    top: 4px;
+    height: 48px;
+    padding-top: 9px;
+    text-align: center;
+    font-size: 23px;
+    color: white;
+    text-shadow: 0px 2px 4px black;
+    border-radius: 9%;
+}
+        /*Biking Classes Description*/
+.biking-text{
+    background-image: linear-gradient(to bottom right, #fb830887, #ff5961cc, #fea686);
+    position: absolute;
+    width: 145px;
+    right: 70px;
     padding-top: 16px;
     text-align: center;
     font-size: 19px;
