@@ -160,10 +160,11 @@ i{
     background-color: #ff0100ad;
     box-shadow: -3px 0px 2px;
     width: 600px;
+    text-align: center;
 }
         /*Height of First Section*/
 #one{
-    height: 290px;
+    height: 235px;
 }
         /*Height of Second Section*/
 #two{
@@ -297,11 +298,12 @@ i{
         /*Youtube Video*/
 iframe{
     width: 476px;
-    height: 269px;
+    height: 297px;
     position: absolute;
-    border: 11px solid #ff5961;
+    border: 4px solid #ff5961;
     border-radius: 4%;
-    left: 27px;
+    left: 44px;
+    top: -39px;
 }
         /*Schedule Container*/
 #schedule{
