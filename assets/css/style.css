@@ -52,12 +52,10 @@ a{
 }
         /*Hero Image*/
 .hero-image{
-    height: 307px;
+    height: 312px;
     width: 640px;
     margin-left: 562px;
-    border-radius: 3%;
     opacity: 80%;
-    margin-top: 3px;
     margin-bottom: 5px;
 
     
