@@ -166,11 +166,11 @@ i{
 }
         /*Height of Third Section*/
 #three{
-    height: 290px;
+    height: 300px;
 }
         /*Height of Fourth Section*/
 #four{
-    height: 290px;
+    height: 490px;
 }        
         /*Benefits Text*/
 #benefits{
@@ -334,29 +334,38 @@ th, td{
 }
         /*Review Container*/
 #review-container{
-    background-color: gray;
     position: relative;
-    height: 400px;
-    width: 230px;
+    height: 412px;
+    top: -20px;
+    width: 227px;
+    left: 110px;
+    background-color: #fbb5b7;
+    border-radius: 10%;
 }
         /*Left Arrow on Review Container*/
 #left-arrow{
-position: absolute;
-height: 55px;
-top: 170px;
-left: 57px;
+    position: absolute;
+    height: 38px;
+    top: 181px;
+    left: 70px;
+    background-color: black;
+    width: 31px;
 }
         /*Right Arrow on Review Container*/
 #right-arrow{
-height: 51px;
-right: 76px;
-top: 167px;
+    position: absolute;
+    height: 38px;
+    top: 181px;
+    left: 337px;
+    background-color: black;
+    width: 31px;
 }
-        /*Review Container Background*/
-#review-background{
-background-color: rgba(232, 232, 232, 1);
-border-radius: 38%;
-}
+        /*Shows current review image displayed*/
+ol{
+    position: absolute;
+    top: 369px;
+    left: -99px;
+}        
 
 #last-section{
     background-color: rgba(228, 233, 237, 1);
