@@ -424,6 +424,7 @@ ol{
 }
        /*Footer Section*/
 footer{
+    height: 150px;
     background-color: rgba(246, 71, 71, 0.4);
 } 
         /*Hero Headers Animation*/
@@ -472,10 +473,14 @@ footer{
         /*Login Page*/
 #login-page{
     background-image: linear-gradient( 86deg, #fb830887, #ff5961cc, #fea686);
-    color: rgb(255, 0, 0);
+    color: white;
 }
+        /*Login Header Section*/
+#login-header{
+    background-color: #fff;
+}        
         /*Login Heading Content*/
-.login-header{
+.login-heading{
     padding-top: 12px;
 }
         /*First Div on Login Page*/
@@ -490,6 +495,18 @@ footer{
     opacity: 90%;
     padding-bottom: 20px;
 }
+        /*Login Input Buttons*/
+.login-form{
+    background-color: #ff4000;
+    border-radius: 32%;
+    height: 31px;
+    width: 59px;
+    margin-right: 5px;
+    color: white;
+    border: 1px solid white;
+    text-transform: uppercase;
+    font-size: 12px;
+}        
         /*Blog First Row Content*/
 #flow{
             background-color: orange;
