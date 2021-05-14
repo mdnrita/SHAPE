@@ -14,17 +14,61 @@
     <link href="assets/css/style.css" rel="stylesheet" type="text/css">
 </head>
 <body id="login-page">
+    <!----------Beggining of Header Tag-->
     <header>
-        <h1>Login Area</h1>
-    </header>
-    <div class="container" id="one">
-        <div class="row">
-            <div class="col-12 col-md-6 col-lg-6" id="first-column">
-                <p>text text text</p>
+        <!----------Anchor to Logo-->
+            <a href="index.html">
+                <h2 id="logo">SHAPE</h2></a>
+        <!----------Beggining of Navigation Bar-->
+        <nav class="navbar navbar-expand-lg navbar-light">
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+              <ul class="navbar-nav mr-auto">
+        <!----------Link to Current Page-->
+                <li class="nav-item active">
+                  <a class="nav-link" href="#">Home<span class="sr-only">(current)</span></a>
+                </li>
+        <!----------Link to Team Page-->       
+                <li class="nav-item">
+                  <a class="nav-link" href="team.html">Team</a>
+                </li>
+        <!----------Link to Location Page-->        
+                <li class="nav-item">
+                  <a class="nav-link" href="location.html">Location</a>
+                </li>
+        <!----------Link to Blog Page-->        
+                <li class="nav-item">
+                    <a class="nav-link" href="blog.html">Blog</a>
+        <!----------Linkt to Login Area Page-->            
+                    <li class="nav-item">
+                    <a class="nav-link" href="login.html">Login</a>
+              </ul>
             </div>
-            <div class="col-12 col-md-6 col-lg-6" id="second-column">
-                <p>text text text</p>
-
+          </nav>
+        <!----------End of Navigation Bar-->
+          </header>
+          <div class="container">
+              <div class="row">
+                  <div class="col-12 col-md-12 col-lg-12">
+                      <h1> header</h1>
+                  </div>
+              </div>
+          </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-md-12 col-lg-12" id="first-column">
+                <h2>Login Area</h2>
+                <img src="assets/images/wide-outdoor-workouts.jpeg" class="img-fluid" id="login-image">
+                <label for="username">Username</label>
+                <input type="text" name="username" id="username">
+                <label for="password">Password</label>
+                <input type="password" name="password" id="password">
+                <input type="submit">
+                <input type="reset">
+            </div>
+            <div class="col-12 col-md-12 col-lg-12" id="second-column">
             </div>
             </div>
             </div>
