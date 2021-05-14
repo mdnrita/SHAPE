@@ -505,6 +505,25 @@ a:hover{
 #login-image{
     opacity: 70%;
 }
+        /*Blog First Row Content*/
+#flow{
+            background-color: orange;
+            height: 100px;
+}
+#flow-2{
+    background-color: #04f17a;
+    height: 100px;
+}
+        /*Blog Second Row Content*/
+#two-row{
+    background-color: rgb(185, 39, 88);
+    height: 250px;
+}  
+        /*Blog Third Row Content*/
+#third-row{
+    background-color: rgb(62, 62, 172);
+    height: 250px;
+}           
         /*Media queries*/
 @media screen and (max-width: 425px) {
     .hero-image{
