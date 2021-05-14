@@ -22,13 +22,7 @@ header{
     margin-bottom: -42px;
     color: red;
     font-size: 37px;
-    margin-top: -7px;
-    background: linear-gradient(20deg, rgb(250, 121, 0), rgba(233, 210, 3, 0.952), rgb(236, 100, 58));
-    
-    animation: rainbow 3s ease-in-out infinite;
-    transition: color 1s ease-in-out;
-    background-clip: text;
-    -webkit-background-clip:text;
+    margin-top: -7px;   
 }
          /* Nav-Bar Lists */
 nav, li{
@@ -478,18 +472,22 @@ footer{
         /*Login Page*/
 #login-page{
     background-image: linear-gradient( 86deg, #fb830887, #ff5961cc, #fea686);
+    color: rgb(255, 0, 0);
+}
+        /*Login Heading Content*/
+.login-header{
+    padding-top: 12px;
 }
         /*First Div on Login Page*/
 #first-column{
-    background-color: red;
+    background-color: rgb(240 99 99 / 89%);
+    border-radius: 2%;
+    margin-top: 15px;
 }
-        /*Second Div on Login Page*/
-#second-column{
-    background-color: yellow;
-} 
+
         /*Login Image*/
 #login-image{
-    opacity: 70%;
+    opacity: 90%;
     padding-bottom: 20px;
 }
         /*Blog First Row Content*/
