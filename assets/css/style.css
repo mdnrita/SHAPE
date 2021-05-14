@@ -168,6 +168,14 @@ i{
 #four{
     height: 490px;
 }        
+        /*Height of Fith Section*/
+#fith{
+    height: 290px;
+}        
+        /*Height of Sixth Section*/
+#sixth{
+    height: 350px;
+}        
         /*DIV containing benefits content*/
 #container-benefits{
     position: relative;
@@ -424,7 +432,18 @@ ol{
     top: 369px;
     left: -99px;
 }        
-
+        /*Book a Trial Form*/
+#index-form{
+    background-color: #ff5961;
+    height: 247px;
+    width: 588px;
+    padding-top: 11px;
+    padding-left: 25px;
+    border: 3px solid red;
+    padding-top: 16px;
+    color: white;
+    text-shadow: 1px 1px 2px black;
+}        
 #last-section{
     background-color: rgba(228, 233, 237, 1);
 }
