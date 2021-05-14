@@ -154,26 +154,32 @@ i{
 }
         /*Height of First Section*/
 #one{
+    position: relative;
     height: 180px;
 }
         /*Height of Second Section*/
 #two{
+    position: relative;
     height: 290px;
 }
         /*Height of Third Section*/
 #three{
+    positione: relative;
     height: 300px;
 }
         /*Height of Fourth Section*/
 #four{
+    position: relative;
     height: 490px;
 }        
         /*Height of Fith Section*/
 #fith{
+    position: relative;
     height: 290px;
 }        
         /*Height of Sixth Section*/
 #sixth{
+    position: relative;
     height: 350px;
 }        
         /*DIV containing benefits content*/
