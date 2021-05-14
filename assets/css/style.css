@@ -164,7 +164,7 @@ i{
 }
         /*Height of Third Section*/
 #three{
-    positione: relative;
+    position: relative;
     height: 300px;
 }
         /*Height of Fourth Section*/
@@ -180,7 +180,7 @@ i{
         /*Height of Sixth Section*/
 #sixth{
     position: relative;
-    height: 350px;
+    height: 265px;
 }        
         /*DIV containing benefits content*/
 #container-benefits{
@@ -455,9 +455,14 @@ ol{
 }
        /*Footer Section*/
 footer{
-    height: 150px;
+    height: 70px;
     background-color: rgba(246, 71, 71, 0.4);
-} 
+}
+        /*Home Footer*/
+#home-footer{
+    font-size: 25px;
+    text-align: center;
+}         
         /*Hero Headers Animation*/
 @keyframes moving-text{
     from{
