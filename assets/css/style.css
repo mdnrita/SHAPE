@@ -490,6 +490,7 @@ footer{
         /*Login Image*/
 #login-image{
     opacity: 70%;
+    padding-bottom: 20px;
 }
         /*Blog First Row Content*/
 #flow{
