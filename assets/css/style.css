@@ -431,21 +431,7 @@ ol{
        /*Footer Section*/
 footer{
     background-color: rgba(246, 71, 71, 0.4);
-}
-       /*Hover on Anchor Elements*/
-a:hover{
-    background: linear-gradient(20deg, rgb(250, 121, 0), rgba(233, 210, 3, 0.952), rgb(236, 100, 58));
 } 
-        /*Logo Animation change colour*/
-@keyframes rainbow { 
-    0%{background-position:left}
-    50%{background-position:right}
-    100%{background-position:left}
-  }
-
-  #logo:hover{
-    color: rgba(0,0,0,0);
-}
         /*Hero Headers Animation*/
 @keyframes moving-text{
     from{
