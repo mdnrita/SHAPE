@@ -457,6 +457,10 @@ ol{
 footer{
     height: 70px;
     background-color: rgba(246, 71, 71, 0.4);
+    margin-top: 20px;
+    text-align: center;
+    font-size: 21px;
+    padding-top: 10px;
 }
         /*Home Footer*/
 #home-footer{
@@ -530,6 +534,10 @@ footer{
     opacity: 90%;
     padding-bottom: 20px;
 }
+        /*Login Form*/
+#sign-in{
+    margin-bottom: 15px;
+}   
         /*Login Input Buttons*/
 .login-form{
     background-color: #ff4000;
