@@ -8,9 +8,9 @@
 }
          /*Body Tag */
 body{
-    font-family: Montserrat, 'sans-serif'
+    font-family: Montserrat, 'sans-serif';
 }
-         /* Header Tag */
+         /* General Header Tag */
 header{
     height: 80px;
     border-bottom: 4px solid red;
@@ -24,12 +24,12 @@ header{
     font-size: 37px;
     margin-top: -7px;   
 }
-         /* Nav-Bar Lists */
+         /* Navigation Bar Lists */
 nav, li{
     float: right;
     padding-right: 17px;
 }
-         /* Nav-Bar Anchor Links */
+         /* Navigation Bar Anchor Links */
 a{
     margin: -7px -4px 0 4px;
     font-size: 18px;  
@@ -38,7 +38,7 @@ a{
 .hero-section{
     position: relative;
 }
-        /* Hero Image Background*/
+        /*Hero Image Section| Background*/
 #hero{
     background-image: linear-gradient(17deg, rgb(255 79 79 / 0%), rgb(255 89 89), rgb(222 174 39 / 63%), rgb(255 255 255));
     height: 312px;
@@ -53,10 +53,10 @@ a{
     margin-bottom: 5px;
 
     
-    animation-name: hi;     
+    animation-name: hero-image-animation;     
     animation-duration: 5s;
 }
-        /*Hero Image Heading Text */
+        /*Hero Image| Main Header*/
 .show-first{
     position: absolute;
     top: 94px;
@@ -73,7 +73,7 @@ a{
     animation-name: moving-text;
     animation-duration: 4s;
 }
-        /*Hero Image Secondary Header*/
+        /*Hero Image| Second Header*/
 .show-later{
     position: absolute;
     color: #ffffff;
@@ -89,7 +89,7 @@ a{
     animation-name: second-hello;
     animation-duration: 6s;
 }
-        /*Book a Trial Container Position */
+        /*Hero Section| Book a Trial Container Position */
 #trial-container{
     position: absolute;
     left: 174px;
@@ -98,7 +98,7 @@ a{
     animation-name: second-hello;
     animation-duration: 8s;
 }
-        /*Book a Trial Text Content*/
+        /*Hero Section| Book a Trial Text Content*/
 .trial-anchor{
     display: inline-block;
     height: 53px;
@@ -114,7 +114,7 @@ a{
     border-radius: 17%;
     border: 2px solid;
 }
-        /*Outdoor Workout Sessions Header*/
+        /*Index Outdoor Workout Header*/
 .outdoor-heading{
     background-image: linear-gradient(white, #ff7e7e);
     margin-top: 12px;
@@ -137,8 +137,8 @@ a{
 i{
     color: rgb(0, 0, 0);
 }
-        /* Ready Set Go Header*/
-.countdown-headers{
+        /*Index Section Headers*/
+.section-header{
     font-family: Audiowide, 'sans-serif';
     margin-left: 40px;
     font-size: 25px;
@@ -152,42 +152,42 @@ i{
     width: 600px;
     text-align: center;
 }
-        /*Height of First Section*/
+        /*Index First Section*/
 #one{
     position: relative;
     height: 180px;
 }
-        /*Height of Second Section*/
+        /*Index Second Section*/
 #two{
     position: relative;
     height: 290px;
 }
-        /*Height of Third Section*/
+        /*Index Third Section*/
 #three{
     position: relative;
     height: 300px;
 }
-        /*Height of Fourth Section*/
+        /*Index Fourth Section*/
 #four{
     position: relative;
     height: 490px;
 }        
-        /*Height of Fith Section*/
+        /*Index Fith Section*/
 #fith{
     position: relative;
     height: 290px;
 }        
-        /*Height of Sixth Section*/
+        /*Index Sixth Section*/
 #sixth{
     position: relative;
     height: 265px;
 }        
-        /*DIV containing benefits content*/
+        /*DIV Benefits Content*/
 #container-benefits{
     position: relative;
     height: 300px;
 }
-        /*Benefits Text*/
+        /*Benefits Outdoor Workout Text*/
 #benefits{
     position: absolute;
     height: 240px;
@@ -263,7 +263,6 @@ i{
     text-transform: uppercase;
     height: 190px;
 }
-
         /*Running Classes Span*/
 .classes-run{
     position: absolute;
@@ -388,7 +387,7 @@ table{
 }
         /*Header Schedule*/
 th{
-    font-family: Audiowide, 'sans-serif;'
+    font-family: Audiowide, 'sans-serif';
 }
         /*Adjust Schedule Header and Data*/
 th, td{
@@ -432,7 +431,7 @@ th, td{
     background-color: black;
     width: 31px;
 }
-        /*Shows current review image displayed*/
+        /*Current Review Image Displayed*/
 ol{
     position: absolute;
     top: 369px;
@@ -450,9 +449,6 @@ ol{
     color: white;
     text-shadow: 1px 1px 2px black;
 }        
-#last-section{
-    background-color: rgba(228, 233, 237, 1);
-}
        /*Footer Section*/
 footer{
     height: 70px;
@@ -461,13 +457,8 @@ footer{
     text-align: center;
     font-size: 21px;
     padding-top: 10px;
-}
-        /*Home Footer*/
-#home-footer{
-    font-size: 25px;
-    text-align: center;
-}         
-        /*Hero Headers Animation*/
+}      
+        /*Hero Headers Text Animation*/
 @keyframes moving-text{
     from{
       top: 92px;
@@ -478,8 +469,8 @@ footer{
         left: 71px;
     }
 }
-
-@keyframes  hi{
+        /*Hero-Image-Animation*/
+@keyframes  hero-image-animation{
     0%   { opacity: 0%; }
     50% { opacity: 20%; }
     80% { opacity: 60%; }
