@@ -559,6 +559,12 @@ footer{
     height: 200px;
     border: 1px solid red;
 }           
+        /*Blog Article Header*/
+ .article-header{
+    border-bottom: 1px solid red;
+    text-align: center;
+    margin-top: 5px;
+}       
        /*Blog Footer*/
 #blog-footer{
     margin-top: 10px;;
