@@ -188,7 +188,7 @@ i{
     height: 300px;
 }
         /*Index| Benefits Outdoor Workout Text Left Side Text*/
-.benefits-left-side{
+.benefits-right-side{
     height: 49px;
     width: 339px;
     background-image: linear-gradient(to right, #f54554f7, #f97a82);
@@ -203,24 +203,7 @@ i{
     box-shadow: 2px 1px 4px black;
     color: white;
 }
-        /*Index| Benefits Outdoor Workout Right Side Text*/
-.benefits-right-side{
-    height: 51px;
-    width: 301px;
-    left: 75px;
-    background-image: linear-gradient(to right, #f54554f7, #f97a82);
-    margin-top: 15px;
-    font-size: 18px;
-    font-style: oblique;
-    padding-left: 26px;
-    text-transform: uppercase;
-    text-shadow: 0px 0px 1px;
-    padding-top: 13px;
-    border-radius: 8%;
-    box-shadow: 2px 1px 4px black;
-    color: white;
-}
-        /*Index| Schedule Second Row*/
+         /*Index| Schedule Second Row*/
 #schedule-image{
     position: relative;
     height: 250px;
@@ -237,18 +220,18 @@ i{
     border-radius: 8%;
     box-shadow: 2px -1px 0px red;
 }
-        /*Exercise Images*/
+        /*Index| First Exercise Images Container*/
 #slideshow{
     position: relative;
     height: 350px;
 }
-        /*Image Woman Working out*/
+        /*Index| Image Man&Woman Working out*/
 #ready-image{
     position: absolute;
-    height: 290px;
-    width: 415px;
+    height: 220px;
+    width: 310px;
     left: 82px;
-    top: -58px;
+    top: -18px;
     border-radius: 15%;
     opacity: 85%;
     box-shadow: 7px 5px 0px red;
@@ -256,13 +239,13 @@ i{
     
     animation: changeBg 8s infinite;
 }
-        /*Image Man Working out*/
+        /*Index| Image Man&Woman Working out*/
 #second-ready-image{
     position: absolute;
-    height: 290px;
-    width: 415px;
-    top: -59px;
-    right: 74px;
+    height: 220px;
+    width: 310px;
+    top: -17px;
+    right: 180px;
     border-radius: 15%;
     opacity: 85%;
     box-shadow: 7px 5px 0px red;
@@ -277,7 +260,7 @@ i{
     text-transform: uppercase;
     height: 190px;
 }
-        /*Running Classes Span*/
+        /*Index| Running Classes Span*/
 .classes-run{
     position: absolute;
     height: 48px;
@@ -293,7 +276,7 @@ i{
     background-image: linear-gradient(to bottom right, #fb830887, #ff5961cc, #fea686);
     text-shadow: -1px 0px 2px black;
 }
-        /*Running Class Description*/
+        /*Index| Running Class Description*/
 .running-text{
     background-image: linear-gradient(to bottom right, #fb830887, #ff5961cc, #fea686);
     position: absolute;
@@ -308,7 +291,7 @@ i{
     text-shadow: 0px 2px 4px black;
     border-radius: 9%;
 }
-        /*Dumbell Classes Span*/
+        /*Index| Dumbell Classes Span*/
 .classes-dumbell{
     position: absolute;
     height: 49px;
@@ -324,7 +307,7 @@ i{
     background-image: linear-gradient(to bottom right, #fb830887, #ff5961cc, #fea686);
     text-shadow: -1px 0px 2px black;
 }
-        /*Dumbell Description*/
+        /*Index| Dumbell Description*/
 .dumbell-text{
     background-color: #ff5961e0;
     position: absolute;
@@ -339,7 +322,7 @@ i{
     text-shadow: 0px 2px 4px black;
     border-radius: 7%;
 }
-        /*Biking Classes Span*/
+        /*Index| Biking Classes Span*/
 .classes-bike{
     background-image: linear-gradient(to bottom right, #fb830887, #ff5961cc, #fea686);
     position: absolute;
@@ -354,7 +337,7 @@ i{
     text-shadow: 0px 2px 4px black;
     border-radius: 9%;
 }
-        /*Biking Classes Description*/
+        /*Index| Biking Classes Description*/
 .biking-text{
     background-image: linear-gradient(to bottom right, #fb830887, #ff5961cc, #fea686);
     position: absolute;
@@ -369,12 +352,12 @@ i{
     text-shadow: 0px 2px 4px black;
     border-radius: 7%;
 }
-        /*Video Container*/
+        /*Index| Video Container*/
 #video{
     position: relative;
     height: 300px;
 }
-        /*Youtube Video*/
+        /*Index| Youtube Video*/
 iframe{
     width: 500px;
     height: 270px;
@@ -383,33 +366,37 @@ iframe{
     left: 30px;
     top: 16px;
 }
-        /*Schedule Container*/
+        /*Index| Schedule Container*/
 #schedule{
     position: relative;
 }
-        /*Classes Schedule*/
+        /*Index| Classes Schedule*/
 table{
     height: 275px;
-    width: 493px;
+    width: 535px;
     position: absolute;
     left: 17px;
     top: 30px;
     border-left: 4px solid red;
     box-shadow: 1px 1px 4px black;
 }
-        /*Header Schedule*/
+        /*Index| Table Header Schedule*/
 th{
     font-family: Audiowide, 'sans-serif';
 }
-        /*Adjust Schedule Header and Data*/
+        /*Index| Schedule Header and Data*/
 th, td{
     padding-left: 49px;
     border-bottom: 1px solid red;
 }
+        /*Index| Adjusting Schedule Classes Icons*/
+.schedule-classes{
+    padding-left: 80px;
+}
         /*Image of Classes Location*/
 #map-image{
-    filter: grayscale(1);
-    box-shadow: -2px -1px 4px;
+    height: 150px;
+    width: auto;
 }
         /*Reviews Imagesr*/
 .review-image{
