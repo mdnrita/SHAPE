@@ -525,8 +525,7 @@ footer{
     border-radius: 2%;
     margin-top: 15px;
 }
-
-        /*Login Image*/
+         /*Login Image*/
 #login-image{
     opacity: 90%;
     padding-bottom: 20px;
@@ -545,23 +544,25 @@ footer{
 }        
         /*Blog First Row Content*/
 #flow{
-            background-color: orange;
-            height: 100px;
-}
-#flow-2{
-    background-color: #04f17a;
-    height: 100px;
+    background-color: red;
+    height: 51px;
+    padding-top: 5px;
+    margin-top: 30px;
 }
         /*Blog Second Row Content*/
 #two-row{
-    background-color: rgb(185, 39, 88);
-    height: 250px;
+    height: 200px;
+    border: 1px solid red;
 }  
         /*Blog Third Row Content*/
 #third-row{
-    background-color: rgb(62, 62, 172);
-    height: 250px;
+    height: 200px;
+    border: 1px solid red;
 }           
+       /*Blog Footer*/
+#blog-footer{
+    margin-top: 10px;;
+}       
         /*Media queries*/
 @media screen and (max-width: 425px) {
     .hero-image{
