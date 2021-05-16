@@ -277,7 +277,7 @@ i{
     animation: change 9s infinite;
 
 }
-        /*Join our Classes Header*/
+        /*Index| Join our Classes Header*/
 #join-header{
     position: relative;
     font-size: 15px;
@@ -425,38 +425,6 @@ iframe{
     left: 107px;
     top: -53px;
 }
-        /*Index| Schedule Container*/
-#schedule{
-    position: relative;
-}
-        /*Index| Classes Schedule*/
-table{
-    height: 275px;
-    width: 535px;
-    position: absolute;
-    left: 17px;
-    top: 30px;
-    border-left: 4px solid red;
-    box-shadow: 1px 1px 4px black;
-}
-        /*Index| Table Header Schedule*/
-th{
-    font-family: Audiowide, 'sans-serif';
-}
-        /*Index| Schedule Header and Data*/
-th, td{
-    padding-left: 49px;
-    border-bottom: 1px solid red;
-}
-        /*Index| Adjusting Schedule Classes Icons*/
-.schedule-classes{
-    padding-left: 80px;
-}
-        /*Index| Image of Classes Location*/
-#map-image{
-    height: 150px;
-    width: auto;
-}
         /*Index| Book a Trial Form*/
  #index-form{
     background-image: linear-gradient(to right, #fe9a818c, #fe9c82ad, #ff5961);
@@ -533,7 +501,7 @@ th, td{
     75% {opacity:0;}
     100% {opacity:1;}
 }
-        /*Footer Section*/
+        /*ALL PAGES| Footer Section*/
 footer{
     height: 47px;
     background-color: rgb(255 143 143);
@@ -542,55 +510,153 @@ footer{
     font-size: 19px;
     padding-top: 11px;
 }  
-        /*Trainers Page| Reviews Imagesr*/
-.review-image{
-    border-radius: 50%;
+        /*Location Page| Schedule Header Text*/
+.schedule-header{
+    padding-left: 9px;
+    padding-top: 9px;
+    text-transform: capitalize;
+    width: 450px;
+    height: 67px;
+    text-shadow: -1px 1px 1px black;
+    background-color: #ff00007a;
+    color: white;
+    box-shadow: -2px 2px 3px black;
+}        
+        /*Location Page| Classes Schedule*/
+table{
+    height: 221px;
+    width: 535px;
+    margin-top: 23px;
+    border-left: 4px solid red;
+    box-shadow: 1px 1px 4px black;
 }
-        /*Trainers Page| Review Container*/
+        /*Location Page| Table Header Schedule*/
+th{
+    font-family: Audiowide, 'sans-serif';
+}
+        /*Location Page| Schedule Header and Data*/
+th, td{
+    padding-left: 49px;
+    border-bottom: 1px solid red;
+}
+        /*Location Page| Adjusting Schedule Classes Icons*/
+.schedule-classes{
+    padding-left: 80px;
+}
+        /*Location Page| Users Review Container*/
 #review-container{
     position: relative;
     height: 412px;
-    top: -20px;
-    width: 227px;
+    top: -21px;
+    width: 212px;
     left: 110px;
-    background-color: #fbb5b7;
-    border-radius: 10%;
 }
-        /*Trainers Page| Left Arrow on Review Container*/
+       /*Location Page| Reviews User Images*/
+.review-image{
+    border-radius: 50%;
+}
+        /*Location Page| Review Container*/
+#review-container{
+    position: relative;
+    height: 412px;
+    top: -21px;
+    width: 212px;
+    left: 110px;
+}
+        /*Location Page| Left Arrow on Review Container*/
 #left-arrow{
     position: absolute;
-    height: 38px;
-    top: 181px;
-    left: 70px;
-    background-color: black;
+    height: 39px;
+    top: 197px;
+    left: 74px;
+    background-color: #ff5961;
     width: 31px;
 }
-        /*Trainers Page| Right Arrow on Review Container*/
+        /*Location Page| Right Arrow on Review Container*/
 #right-arrow{
     position: absolute;
     height: 38px;
-    top: 181px;
-    left: 337px;
-    background-color: black;
+    top: 196px;
+    left: 328px;
+    background-color: #ff5961;
     width: 31px;
 }
-        /*Trainers Page| Current Review Image Displayed*/
+        /*Location Page| Current Review Image Displayed*/
 ol{
     position: absolute;
     top: 369px;
     left: -99px;
 }         
-        /*Location Page| Users Review Container*/
-#review-container{
-    background-color: #ff5961;
-    height: 316px;
-    border-radius: 3%;
-}
+        /*Location Page| Current Review Image Displayed*/
+ol{
+    position: absolute;
+    left: -30px;
+    top: 288px;  
+}      
         /*Location Page| Second Row Container*/
 #second-row-location{
+    position: relative;
+    height: 238px;
     background-color: #ff5961;
     border-radius: 4%;
+    margin-top: 16px;
 }
+        /*Location Page| Contact Area*/
+.contact-location{
+    height: 82px;
+    background-color: #efe7e7;
+    margin-top: 37px;
+    width: 370px;
+    padding-left: 10px;
+    padding-top: 14px;
+    border-radius: 4%;
+    color: black;
+    text-shadow: 1px 0px 1px black;
+    border: 1px solid red;
+}        
+        /*Location Page| Map Displayed*/
+#map-image{
+    height: 200px;
+    width: auto;
+    position: absolute;
+    left: 46px;
+    top: 19px;
+}       
+        /*Blog Page| First Row Content*/
+#flow{
+    background-color: red;
+    height: 51px;
+    padding-top: 5px;
+    margin-top: 30px;
+    color: white;
+    letter-spacing: 3px;
+}
+        /*Blog Page| Second Row Content*/
+#two-row{
+    height: 223px;
+    border: 1px solid red;
+}  
+        /*Blog Page| Third Row Content*/
+#third-row{
+    height: 247px;
+    border: 1px solid red;
+}           
+        /*Blog Page|  Article Header*/
+.article-header{
+    border-bottom: 1px solid red;
+    text-align: center;
+    margin-top: 5px;
+    padding-top: 10px;
+}       
+        /*Blog Page| Articles Text Content*/
+.blog-text{
+     padding-top: 30px;
+}        
+        /*Blog Page| Footer*/
+#blog-footer{
+     margin-top: 10px;;
+}       
+        
         /*Login Page*/
 #login-page{
     background-image: linear-gradient( 86deg, #fb830887, #ff5961cc, #fea686);
@@ -631,40 +697,6 @@ ol{
     text-transform: uppercase;
     font-size: 12px;
 }        
-        /*Blog Page| First Row Content*/
-#flow{
-    background-color: red;
-    height: 51px;
-    padding-top: 5px;
-    margin-top: 30px;
-    color: white;
-    letter-spacing: 3px;
-}
-        /*Blog Page| Second Row Content*/
-#two-row{
-    height: 223px;
-    border: 1px solid red;
-}  
-        /*Blog Page| Third Row Content*/
-#third-row{
-    height: 247px;
-    border: 1px solid red;
-}           
-        /*Blog Page|  Article Header*/
- .article-header{
-    border-bottom: 1px solid red;
-    text-align: center;
-    margin-top: 5px;
-    padding-top: 10px;
-}       
-        /*Blog Page| Articles Text Content*/
-.blog-text{
-    padding-top: 30px;
-}        
-       /*Blog Page| Footer*/
-#blog-footer{
-    margin-top: 10px;;
-}       
 
         /*Media queries*/
 @media screen and (max-width: 425px) {
