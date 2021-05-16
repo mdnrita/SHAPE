@@ -77,7 +77,7 @@
                   <p class="dumbell-text">Weight Workout</p>
                   <p class="running-text">Running Sessions</p>
                   <p class="biking-text">Cycling Training</p>
-                  <p class="join-question">Ask Us a Question!</p>
+                  <a class="join-question" href="#team.html">Ask Us a Question!</a>
                 </div>
                 <div class="col-sm-12 col-md-6 col-lg-6" id="video">
                   <iframe src="https://www.youtube.com/embed/DLDlszsQUFg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -97,7 +97,7 @@
           <p class="benefits-fact-text"><i class="fas fa-sun"></i>Burst of Vitamin D</p>
           <p class="benefits-fact-text"><i class="fas fa-arrow-circle-up"></i>Build more resistance</p>
           </div>
-          <p class="blog-anchor">Know more here</p>
+          <a class="blog-anchor" href="#blog.html">Know more here</a>
               </div>
               <div class="col-12 col-md-6 col-lg-6" id="slideshow">
                 <img src="assets/images/exercise1.jpeg" id="ready-image">
@@ -113,17 +113,18 @@
         <div class="col-12 col-md-6 col-lg-6" id="booking-container">
           <form id="index-form">
             <label for="name">Name</label>
-            <input type="text" name="name" id="name" placeholder="name"><br>
+            <input type="text" name="name" placeholder="name" required><br>
             <label for="email">Email</label>
-            <input type="email" name="email" placeholder="email"><br>
+            <input type="email" name="email" placeholder="email" requires><br>
             <label for="date">Choose your Trial Day</label>
-            <input type="date" id="date">
+            <input type="date" id="date" required>
             <p>Which workout would you like to try?</p>
-            <label for="workout-1">Weight Outdoor Workout</label>
-            <input type="radio" id="workout-1" name="workout-1">
-            <label for="workout-2">Running Session</label>
-            <input type="radio" id="workout-2" name="workout-2">
-            <label for="workout-3">Cycling Training</label><br>
+            <input type="radio" id="workout1" name="workout" required>
+            <label for="workout1">Weight Workout</label>
+            <input type="radio" id="workout2" name="workout">
+            <label for="workout2">Running Session</label>
+            <input type="radio" id="workout3" name="workout">
+            <label for="workout3">Cycling Training</label><br>
             <input type="submit" value="Send" class="index-send">
           </form>
           </div>
