@@ -189,12 +189,25 @@ i{
     position: relative;
     height: 300px;
 }
+        /*Index| Benefits Container| Benefits Heading6*/
+.benefits-heading{
+    height: 142px;
+    width: 578px;
+    background-color: #ff8f8f;
+    padding: 22px 0 0 17px;
+    text-align: center;
+    color: white;
+    text-shadow: -1px 0px 2px black;
+    font-size: 16px;
+    margin-top: 4px;
+    border-radius: 4%;
+}
         /*Index| Benefits Outdoor Workout Text*/
-.benefits-right-side{
+.benefits-fact-text{
     height: 35px;
     width: 292px;
     background-image: linear-gradient(to right, #ff7e82, #ff5961, #fea686);
-    margin-bottom: 10px;
+    margin-bottom: 4px;
     font-size: 16px;
     font-style: oblique;
     padding-left: 12px;
@@ -205,7 +218,24 @@ i{
     box-shadow: 2px 2px 3px black;
     color: white;
     margin-left: -8px;
-}       
+}
+        /*Index| Benedits| Know More Here Anchor*/
+.blog-anchor{
+    position: absolute;
+    height: 110px;
+    width: 242px;
+    background-color: #ff746f;
+    top: 174px;
+    left: 334px;
+    padding: 39px 11px 0 25px;
+    border: 3px solid red;
+    color: white;
+    text-shadow: 3px 1px 2px black;
+    text-transform: uppercase;
+    font-size: 19px;
+    box-shadow: 1px 1px 5px black;
+    border-radius: 10%;
+}        
          /*Index| First Exercise Images Container*/
 #slideshow{
     position: relative;
