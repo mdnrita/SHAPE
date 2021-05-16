@@ -93,7 +93,7 @@ a:hover{
     text-transform: uppercase;
     text-shadow: -1px 1px 3px black;
    
-    animation-name: second-hello;
+    animation-name: second-hero-header;
     animation-duration: 6s;
 }
         /*Index Hero Section| Book a Trial Container Position */
@@ -102,7 +102,7 @@ a:hover{
     left: 174px;
     top: 298px;
     
-    animation-name: second-hello;
+    animation-name: second-hero-header;
     animation-duration: 8s;
 }
         /*Index Hero Section| Book a Trial Text Content*/
@@ -452,51 +452,13 @@ th, td{
 .schedule-classes{
     padding-left: 80px;
 }
-        /*Image of Classes Location*/
+        /*Index| Image of Classes Location*/
 #map-image{
     height: 150px;
     width: auto;
 }
-        /*Reviews Imagesr*/
-.review-image{
-    border-radius: 50%;
-}
-        /*Review Container*/
-#review-container{
-    position: relative;
-    height: 412px;
-    top: -20px;
-    width: 227px;
-    left: 110px;
-    background-color: #fbb5b7;
-    border-radius: 10%;
-}
-        /*Left Arrow on Review Container*/
-#left-arrow{
-    position: absolute;
-    height: 38px;
-    top: 181px;
-    left: 70px;
-    background-color: black;
-    width: 31px;
-}
-        /*Right Arrow on Review Container*/
-#right-arrow{
-    position: absolute;
-    height: 38px;
-    top: 181px;
-    left: 337px;
-    background-color: black;
-    width: 31px;
-}
-        /*Current Review Image Displayed*/
-ol{
-    position: absolute;
-    top: 369px;
-    left: -99px;
-}        
         /*Index| Book a Trial Form*/
-#index-form{
+ #index-form{
     background-image: linear-gradient(to right, #fe9a818c, #fe9c82ad, #ff5961);
     height: 247px;
     width: 588px;
@@ -531,51 +493,39 @@ ol{
     box-shadow: 1px 0px 1px black;
     font-size: 13px;
 }
-       /*Footer Section*/
-footer{
-    height: 47px;
-    background-color: rgb(255 1 0 / 92%);
-    margin-top: 24px;
-    text-align: center;
-    font-size: 19px;
-    padding-top: 11px;
-}      
-        /*Hero Headers Text Animation*/
+        /*Index| Hero Headers Text Animation*/
 @keyframes moving-text{
-    from{
-      top: 92px;
-      left: -780px;
-    }
-    to{
+     from{
+        top: 92px;
+        left: -780px;
+        }
+        to{
         top: 94px;
         left: 71px;
     }
 }
-        /*Hero-Image-Animation*/
+         /*Index| Hero-Image-Animation*/
 @keyframes  hero-image-animation{
     0%   { opacity: 0%; }
     50% { opacity: 20%; }
     80% { opacity: 60%; }
     100% { opacity: 80%; }
-  }
-
-@keyframes second-hello{
+}
+        /*Index| Secondary Header Text Animation*/       
+@keyframes second-hero-header{
     0% {opacity: 0;}
     50% {opacity: 0;}
     80% {opacity: 50%;}
     100% {opacity: 100%;}
 }
-        /*Images Man&Woman Working Out*/
-@keyframes changeBg
-{
-   0% {opacity:1;}
-   25% {opacity:0;} 
-   50%  {opacity:1;}
-   75% {opacity:1;}
-   100% {opacity:1;}
-
+        /*Index| Images Man&Woman Working Out*/
+@keyframes changeBg{
+    0% {opacity:1;}
+    25% {opacity:0;} 
+    50%  {opacity:1;}
+    75% {opacity:1;}
+    100% {opacity:1;}
 }
-
 @keyframes change{
     0% {opacity:1;}
     25% {opacity:1;} 
@@ -583,6 +533,53 @@ footer{
     75% {opacity:0;}
     100% {opacity:1;}
 }
+        /*Footer Section*/
+footer{
+    height: 47px;
+    background-color: rgb(255 1 0 / 92%);
+    margin-top: 24px;
+    text-align: center;
+    font-size: 19px;
+    padding-top: 11px;
+}  
+        /*Trainers Page| Reviews Imagesr*/
+.review-image{
+    border-radius: 50%;
+}
+        /*Trainers Page| Review Container*/
+#review-container{
+    position: relative;
+    height: 412px;
+    top: -20px;
+    width: 227px;
+    left: 110px;
+    background-color: #fbb5b7;
+    border-radius: 10%;
+}
+        /*Trainers Page| Left Arrow on Review Container*/
+#left-arrow{
+    position: absolute;
+    height: 38px;
+    top: 181px;
+    left: 70px;
+    background-color: black;
+    width: 31px;
+}
+        /*Trainers Page| Right Arrow on Review Container*/
+#right-arrow{
+    position: absolute;
+    height: 38px;
+    top: 181px;
+    left: 337px;
+    background-color: black;
+    width: 31px;
+}
+        /*Trainers Page| Current Review Image Displayed*/
+ol{
+    position: absolute;
+    top: 369px;
+    left: -99px;
+}         
         /*Login Page*/
 #login-page{
     background-image: linear-gradient( 86deg, #fb830887, #ff5961cc, #fea686);
