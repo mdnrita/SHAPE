@@ -15,24 +15,31 @@ header{
     height: 80px;
     border-bottom: 4px solid red;
 }
-         /* Logo ID */
+         /*All Pages| Shape LOGO*/
 #logo{
     margin-left: 24px;
     width: 151px;
     margin-bottom: -42px;
     color: red;
     font-size: 37px;
-    margin-top: -7px;   
+    margin-top: -7px;  
+    text-decoration: none; 
 }
-         /* Navigation Bar Lists */
+         /*All Pages| Navigation Bar Lists */
 nav, li{
     float: right;
     padding-right: 17px;
 }
-         /*Navigation Bar Anchor Links */
+         /*All Pages| Navigation Anchor Links */
 a{
     margin: -7px -4px 0 4px;
     font-size: 18px;  
+
+}
+        /*All Pages| Anchor Elements*/
+a:hover{
+    text-decoration: none;
+    color: black;
 }
         /*Index Hero Image Section*/
 .hero-section{
@@ -113,6 +120,7 @@ a{
     background-color: #ff5d5d;
     border-radius: 17%;
     border: 2px solid;
+    text-decoration: none;
 }
         /*Index| Outdoor Workout Header*/
 .outdoor-heading{
@@ -642,6 +650,7 @@ footer{
 #blog-footer{
     margin-top: 10px;;
 }       
+
         /*Media queries*/
 @media screen and (max-width: 425px) {
     .hero-image{
