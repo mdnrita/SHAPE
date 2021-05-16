@@ -580,6 +580,17 @@ ol{
     top: 369px;
     left: -99px;
 }         
+        /*Location Page| Users Review Container*/
+#review-container{
+    background-color: #ff5961;
+    height: 316px;
+    border-radius: 3%;
+}
+        /*Location Page| Second Row Container*/
+#second-row-location{
+    background-color: #ff5961;
+    border-radius: 4%;
+}
         /*Login Page*/
 #login-page{
     background-image: linear-gradient( 86deg, #fb830887, #ff5961cc, #fea686);
