@@ -620,30 +620,37 @@ ol{
     text-transform: uppercase;
     font-size: 12px;
 }        
-        /*Blog First Row Content*/
+        /*Blog Page| First Row Content*/
 #flow{
     background-color: red;
     height: 51px;
     padding-top: 5px;
     margin-top: 30px;
+    color: white;
+    letter-spacing: 3px;
 }
-        /*Blog Second Row Content*/
+        /*Blog Page| Second Row Content*/
 #two-row{
-    height: 200px;
+    height: 223px;
     border: 1px solid red;
 }  
-        /*Blog Third Row Content*/
+        /*Blog Page| Third Row Content*/
 #third-row{
-    height: 200px;
+    height: 247px;
     border: 1px solid red;
 }           
-        /*Blog Article Header*/
+        /*Blog Page|  Article Header*/
  .article-header{
     border-bottom: 1px solid red;
     text-align: center;
     margin-top: 5px;
+    padding-top: 10px;
 }       
-       /*Blog Footer*/
+        /*Blog Page| Articles Text Content*/
+.blog-text{
+    padding-top: 30px;
+}        
+       /*Blog Page| Footer*/
 #blog-footer{
     margin-top: 10px;;
 }       
