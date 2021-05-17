@@ -112,10 +112,13 @@ A Scope was conducted in order to determine the Content and Features needed on t
 #
 
 ### Structure
+The information architecture was organized in a hierarchial tree structure in order to ensure that users could navigate through the site with ease and efficiency, with the following results:
 ![SkeletonImage](assets/images/skeleton.png)
 #
 
 ### Skeleton
+
+Wireframe mockups were created in a Figma Workspace with providing a positive user experience in mind:
 [Wireframes]
 #
 
@@ -138,11 +141,87 @@ Lost link to hero image.
 
 # Features
 
-#### *Design Features*
-....
+## Existing Features
 
-#### *Existing Features*
-....
+- ## Homepage 
+
+- ### Navigation Bar
+    - Featured on all five pages, the full responsive navigation bar includes links to the Logo, Home page, Trainers page (displayed as Team), Location page and  Login page. 
+    - It is identical in each page to allow for easy navigation. This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
+
+[image]
+
+- ### Hero Image Section
+
+    - The Lading Page includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to.
+   - This section introduces the user to SHAPE with an eye catching animation to grab their attention.
+
+[image
+
+- ### Join Classes Section
+   - This section is divided in 4 focal points:
+   1. Introduction to SHAPE'S classes
+   2. Introduction text to Outdoor Workout
+   3. A illustrative Call-to-Action where hypothetically users would be guided to Ask any question regarding SHAPE
+   4. A Youtube video of an Outdoor Workout represating what the classes hypothetically would be like
+   
+   [image]
+
+- ### Benefits Outdoor Section
+   - This section is divided in 4 focal points:
+   1. Informative text on Outdoor Workout
+   2. 4 Benefits of Outdoor Workout
+   3. A Call-to-Action where users who wish to know more about Outdoor Workout will be guided to the Blog Section. 
+   4. An Image animation illustrative of Outdoor Workout.
+
+   [image]
+
+- ### Book Trial Section
+   - This section is divided in 2 focal points:
+   1. A form where the user can fill in details in order to have a trial at SHAPE.
+   2. An example of a promotional image.
+
+    [image]
+
+- ### Footer
+   - The Footer has the same design and content in all pages of this website in order to keep a consistent look.
+   - The footer is valuable to the user as it encourages them to keep connected via social media.
+    
+    [image]
+
+- ## Team Page
+
+- TRAINERS PICTURE
+- TRAINERS PROFILE
+- SUGEGESTED WORKOUT PLAYLIST
+
+- ## Location Page
+   
+- ### Classes Schedule & Reviews Section
+   - This section is divided in 3 focal points:
+   1. Informative text guiding the user to see the schedule below.
+   2. A Schedule where the User can check the classes location, which type of exercise and the intensity of the class.
+   3. A Review container animated by JavaScript, where users can get feedback from other users about SHAPE's services.
+
+- ### Location & Contact Section
+   - This section is divided in 2 focal points:
+   1. An image of map  where as the classes would hypothetically occur as a visual aid for the user.
+   2. An area where the User can get acess to SHAPE's email address.
+
+- ## Blog Page
+- ### Article ...
+    - ....
+    - ....
+    - ....
+
+- ## Login Page
+- ### Login Area
+    - This section is composed by:
+    1. A Heading with its Title.
+    2. An promotional image.
+    3. A form allowing the users to Login In and access their personal account.
+     
+
 
 #### *Future Features*
 ....
