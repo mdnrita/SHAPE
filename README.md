@@ -309,10 +309,78 @@ testing.md
 # Credits
 
 ### *Content*
+-possible font of fitness content for blog section
+https://www.popsugar.co.uk/fitness/20-minute-outdoor-hiit-running-workout-47933373?utm_medium=redirect&utm_campaign=US:NL&utm_source=www.google.com
+
+-credit for colour inspiration
+http://www.flatuicolorpicker.com/red-rgba-color-model/
+
+-credit for outdoor workout benefits content
+https://www.primalplay.com/blog/benefits-of-outdoor-exercise
+
+-intro text
+https://www.shape.com/fitness/tips/outdoor-workout-study-physical-mental-benefits
+
+-join classes text
+http://www.bodyresults.com/articles/outdoor-workout.asp
+
+-benefits small text
+https://www.acefitness.org/education-and-resources/lifestyle/blog/6360/get-out-5-benefits-of-outdoor-exercise/
+
+-first article
+https://time.com/4474874/exercise-fitness-workouts/
+
+-second article
+https://www.everydayhealth.com/fitness/minute-full-body-strength-workout-with-kelsey-wells/
+
+
+
+
+
 #
 ### *Media*
+-workout video for website content
+https://www.youtube.com/watch?v=1mZV_weBHwQ
+
+- woman review pic
+https://www.google.com/search?q=picture%20woman%20round&tbm=isch&hl=nl&tbs=rimg:CSlh4_1KX7O82YU3FHiD3DS1i&sa=X&ved=0CBsQuIIBahcKEwio9tOnxKDwAhUAAAAAHQAAAAAQBw&biw=1265&bih=665#imgrc=nOZoA7r8oNnvwM
+
+-new hero-image
+https://www.pennmedicine.org/updates/blogs/heart-and-vascular-blog/2017/february/do-you-need-a-heart-check-up-before-starting-an-exercise-program
+
+-animation images
+https://blog.healthservicediscounts.com/should-you-ditch-sweaty-gyms-for-an-outdoor-workout/
+https://wirralview.com/covid-19-news/gym-goers-able-reinstate-memberships-outdoor-classes
+
+-trial picture link
+https://skinnyms.com/fun-in-the-sun-outdoor-workout/
+
+-login image
+https://www.shape.com/fitness/workouts/10-new-outdoor-workout-ideas
+
+
 #
 ### *Code*
+-credit for info about on how to make an image animation 
+http://css3.bradshawenterprises.com/cfimg/
+
+-credit for bootstrap review carousel
+https://www.nicesnippets.com/snippet/bootstrap-4-testimonials-or-people-review-slider
+
+-credit for keyframes content
+https://thoughtbot.com/blog/css-animation-for-beginners
+
+-credit for learning about gradients
+https://www.w3schools.com/css/tryit.asp?filename=trycss3_gradient-linear_trans
+
+-credit for learning about text-shadow
+https://www.w3schools.com/cssref/css3_pr_text-shadow.asp
+
+-credit for learning about moving text animation
+https://stackoverflow.com/questions/25717562/how-to-move-text-using-css-animation
+
+-credit for learning about opacity keyframes
+https://css-tricks.com/snippets/css/keyframe-animation-syntax/
 #
 
 
