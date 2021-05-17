@@ -247,7 +247,7 @@ Cascading Style Sheets is a style sheet language used for describing the present
 
 ### *Additional Languages Used*
 
-- ![JavaScript]()  [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
+- ![JavaScript](assets/images/javascript.png)  [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
 
 Often abbreviated as JS, is a programming language that conforms to the ECMAScript specification. This language was used to allow the responsiveness of the Navigation Bar once it is viewed on smaller resolution devices.
 
@@ -256,33 +256,33 @@ Often abbreviated as JS, is a programming language that conforms to the ECMAScri
 
 Was used to help achieve responsiveness of the website.
 
-- ![Google Fonts]() Two [Google Fonts](https://fonts.google.com/) -
+- ![Google Fonts](assets/images/googlefonts.png)[Google Fonts](https://fonts.google.com/) 
 
 Were imported and used for Header and general text content.
 
-- ![Font Awesome]() [Font Awesome](https://fontawesome.com/) 
+- ![Font Awesome](assets/images/font-awesome.png) [Font Awesome](https://fontawesome.com/) 
 
 Icons were used to aid text content visusally. The icons were also used to display Social Links.
 
-- ![Figma]() [Figma](https://www.figma.com/) -
+- ![Figma](assets/images/figma5.png) [Figma](https://www.figma.com/) -
 
 Was used to create Skeleton page and the Wireframes during the design phase of the project.
 
-- ![Am I Responsive?]() [Am I Responsive](http://ami.responsivedesign.is/)
+- [Am I Responsive](http://ami.responsivedesign.is/)
 
 Was used in order to see responsive design throughout the process and to generate mockup imagery to be used.
 
 #### *Workspace, version control and Repository storage*
 
-- ![GitPod]() [GitPod](https://gitpod.io) 
+- ![GitPod](assets/images/gitpod.png) [GitPod](https://gitpod.io) 
 
 Main workspace IDE (Integrated Development Environment)
 
-- ![Git]()[Git](https://git-scm.com/) 
+- ![Git](assets/images/git-icon.png)[Git](https://git-scm.com/) 
 
 Distributed Vgiersion Control tool to store versions of files and track changes.
 
-- [GitHub]() [GitHub](https://github.com/)
+- ![GitHub](assets/images/github.png) [GitHub](https://github.com/)
 
 A cloud-based hosting service to manage my Git repositories.
 #
