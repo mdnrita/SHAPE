@@ -112,7 +112,7 @@ A Scope was conducted in order to determine the Content and Features needed on t
 #
 
 ### Structure
-[structure Image]
+![SkeletonImage](assets/images/skeleton.png)
 #
 
 ### Skeleton
