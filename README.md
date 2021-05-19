@@ -149,14 +149,13 @@ Lost link to hero image.
     - Featured on all five pages, the full responsive navigation bar includes links to the Logo, Home page, Trainers page (displayed as Team), Location page and  Login page. 
     - It is identical in each page to allow for easy navigation. This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
 
-![header-image](assets/images/header.png)
+![headerimage](assets/images/header.png)
 
 - ### Hero Image Section
+    - This section introduces the user to SHAPE with an eye catching animation to grab their attention. The Lading Page includes a photograph with text overlay. And a Call-to-Action for the user to Book a Trial.
 
-    - The Lading Page includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to.
-   - This section introduces the user to SHAPE with an eye catching animation to grab their attention.
 
-[image
+![hero-image](assets/images/hero-image-readme.png)
 
 - ### Join Classes Section
    - This section is divided in 4 focal points:
@@ -165,7 +164,7 @@ Lost link to hero image.
    3. A illustrative Call-to-Action where hypothetically users would be guided to Ask any question regarding SHAPE
    4. A Youtube video of an Outdoor Workout represating what the classes hypothetically would be like
    
-   [image]
+   ![first-section-homepage](assets/images/section1-home-readme.png)
 
 - ### Benefits Outdoor Section
    - This section is divided in 4 focal points:
@@ -174,7 +173,7 @@ Lost link to hero image.
    3. A Call-to-Action where users who wish to know more about Outdoor Workout will be guided to the Blog Section. 
    4. An Image animation illustrative of Outdoor Workout.
 
-   [image]
+![second-section-homepage](assets/images/section2-homepage-readme.png)
 
 - ### Book Trial Section
    - This section is divided in 2 focal points:
