@@ -180,7 +180,7 @@ Lost link to hero image.
    1. A form where the user can fill in details in order to have a trial at SHAPE.
    2. An example of a promotional image.
 
-    [image]
+![booktrial-section-homepage](assets/images/trial-homepage-readme.png)
 
 - ### Footer
    - The Footer has the same design and content in all pages of this website in order to keep a consistent look.
@@ -202,11 +202,14 @@ Lost link to hero image.
    2. A Schedule where the User can check the classes location, which type of exercise and the intensity of the class.
    3. A Review container animated by JavaScript, where users can get feedback from other users about SHAPE's services.
 
+   ![classes-section-location-page](assets/images/schedule-loc-readme.png)
+
 - ### Location & Contact Section
    - This section is divided in 2 focal points:
    1. An image of map  where as the classes would hypothetically occur as a visual aid for the user.
    2. An area where the User can get acess to SHAPE's email address.
 
+![location&contactsection-location-page](assets/images/location-loc-readme.png)
 - ## Blog Page
 - ### Article ...
     - ....
