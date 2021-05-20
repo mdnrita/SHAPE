@@ -215,7 +215,8 @@ Lost link to hero image.
     - ....
     - ....
     - ....
-
+![blog1](assets/images/blog1section-readme.png)
+![blog2](assets/images/blog2section-readme.png)
 - ## Login Page
 - ### Login Area
     - This section is composed by:
