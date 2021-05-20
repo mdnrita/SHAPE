@@ -222,6 +222,9 @@ Lost link to hero image.
     1. A Heading with its Title.
     2. An promotional image.
     3. A form allowing the users to Login In and access their personal account.
+
+![login-tite-loginpage](assets/images/header-login-readme.png)
+![login-are-loginpage](assets/images/loginarea-login-readme.png)
      
 
 
