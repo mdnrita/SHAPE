@@ -260,7 +260,7 @@ Often abbreviated as JS, is a programming language that conforms to the ECMAScri
 #### *Frameworks, Libraries & Programs Used*
 - ![Bootstrap](assets/images/bootstrap-icon.png)  [Bootstrap4](https://getbootstrap.com/)
 
-Was used to help achieve responsiveness of the website.
+Used to help achieve responsiveness of the website.
 
 - ![Google Fonts](assets/images/googlefonts.png)[Google Fonts](https://fonts.google.com/) 
 
@@ -270,13 +270,13 @@ Were imported and used for Header and general text content.
 
 Icons were used to aid text content visusally. The icons were also used to display Social Links.
 
-- ![Figma](assets/images/figma5.png) [Figma](https://www.figma.com/) -
+- ![Figma](assets/images/figma5.png) [Figma](https://www.figma.com/) 
 
-Was used to create Skeleton page and the Wireframes during the design phase of the project.
+Used to create Skeleton page and the Wireframes during the design phase of the project.
 
 - [Am I Responsive](http://ami.responsivedesign.is/)
 
-Was used in order to see responsive design throughout the process and to generate mockup imagery to be used.
+Used in order to see responsive design throughout the process and to generate mockup imagery to be used.
 
 #### *Workspace, version control and Repository storage*
 
@@ -315,54 +315,55 @@ testing.md
 # Credits
 
 ### *Content*
--possible font of fitness content for blog section
-https://www.popsugar.co.uk/fitness/20-minute-outdoor-hiit-running-workout-47933373?utm_medium=redirect&utm_campaign=US:NL&utm_source=www.google.com
+Since this is a fictional business idea, some content was taken from the web, mainly from other fitness websites in order for the project to look more credible, not having the purpose of any sort of promotion. Link references of the content that was used are shown right below:
 
--credit for colour inspiration
-http://www.flatuicolorpicker.com/red-rgba-color-model/
+- ## Homepage
+    - The Benefits of Outoor Workout Section was based on this [article](https://www.primalplay.com/blog/benefits-of-outdoor-exercise).
+ 
+    - In the Hero Image animated text, the second part of the header is from this [article](https://www.shape.com/fitness/tips/outdoor-workout-study-physical-mental-benefits).
 
--credit for outdoor workout benefits content
-https://www.primalplay.com/blog/benefits-of-outdoor-exercise
+    - On the first section the Introduction text next to the Classes was taken from this [link](http://www.bodyresults.com/articles/outdoor-workout.asp).
+ #
 
--intro text
-https://www.shape.com/fitness/tips/outdoor-workout-study-physical-mental-benefits
+- ## Team Page
 
--join classes text
-http://www.bodyresults.com/articles/outdoor-workout.asp
+    -
+    -
+#
 
--benefits small text
-https://www.acefitness.org/education-and-resources/lifestyle/blog/6360/get-out-5-benefits-of-outdoor-exercise/
+- ## Location Page
 
--first article
-https://time.com/4474874/exercise-fitness-workouts/
-
--second article
-https://www.everydayhealth.com/fitness/minute-full-body-strength-workout-with-kelsey-wells/
-
-
+    - text
 
 
 
 #
+
+- ## Blog Page
+    - The first article on the first row can be found [here](https://time.com/4474874/exercise-fitness-workouts/).
+    - The second article show on the first can be found [here](https://www.everydayhealth.com/fitness/minute-full-body-strength-workout-with-kelsey-wells/).
+    - The first article on the second row can be found [here]()
+    - The second article on the second row can be found [here]()
+
+#
+
 ### *Media*
--workout video for website content
-https://www.youtube.com/watch?v=1mZV_weBHwQ
 
-- woman review pic
-https://www.google.com/search?q=picture%20woman%20round&tbm=isch&hl=nl&tbs=rimg:CSlh4_1KX7O82YU3FHiD3DS1i&sa=X&ved=0CBsQuIIBahcKEwio9tOnxKDwAhUAAAAAHQAAAAAQBw&biw=1265&bih=665#imgrc=nOZoA7r8oNnvwM
+- ## Images
+    - Image used on Reviews section for female user found [here](https://www.google.com/search?q=picture%20woman%20round&tbm=isch&hl=nl&tbs=rimg:CSlh4_1KX7O82YU3FHiD3DS1i&sa=X&ved=0CBsQuIIBahcKEwio9tOnxKDwAhUAAAAAHQAAAAAQBw&biw=1265&bih=665#imgrc=nOZoA7r8oNnvwM).
 
--new hero-image
-https://www.pennmedicine.org/updates/blogs/heart-and-vascular-blog/2017/february/do-you-need-a-heart-check-up-before-starting-an-exercise-program
+    - Hero Image found [here](https://www.pennmedicine.org/updates/blogs/heart-and-vascular-blog/2017/february/do-you-need-a-heart-check-up-before-starting-an-exercise-program).
+    
+    - First image used on Fade animation found [here](https://blog.healthservicediscounts.com/should-you-ditch-sweaty-gyms-for-an-outdoor-workout/).
+    
+    - Second used on Fade animation found [here]((https://wirralview.com/covid-19-news/gym-goers-able-reinstate-memberships-outdoor-classes).
 
--animation images
-https://blog.healthservicediscounts.com/should-you-ditch-sweaty-gyms-for-an-outdoor-workout/
-https://wirralview.com/covid-19-news/gym-goers-able-reinstate-memberships-outdoor-classes
+     - Image used for Book-a-Trial section found [here](https://skinnyms.com/fun-in-the-sun-outdoor-workout/).
 
--trial picture link
-https://skinnyms.com/fun-in-the-sun-outdoor-workout/
+     - Image used on Login Page found [here](https://www.shape.com/fitness/workouts/10-new-outdoor-workout-ideas).
 
--login image
-https://www.shape.com/fitness/workouts/10-new-outdoor-workout-ideas
+missing images from men review
+
 
 
 #
@@ -389,8 +390,11 @@ https://stackoverflow.com/questions/25717562/how-to-move-text-using-css-animatio
 https://css-tricks.com/snippets/css/keyframe-animation-syntax/
 #
 
+### Design Inspiration
 
-#
+- [Colour Gradient Inspiration](http://www.flatuicolorpicker.com/red-rgba-color-model/)
+
+
 
 # Acknowledgments
 
