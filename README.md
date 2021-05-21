@@ -125,7 +125,8 @@ Wireframe mockups were created in a Figma Workspace with providing a positive us
 ### Design
 
 #### *Colours*
-image with colour swatches
+In this project the colours presented are the following:
+![Colour-swacthes-for-project](assets/images/colour-swatches.png)
 
 #### *Typography*
 Two type of Fonts were imported from Google Fonts. [Audiowide](https://fonts.google.com/specimen/Audiowide) was used for Headers content, having a bigger weight and bold feeling causing a contrast with the lightness of [Montserrat](https://fonts.google.com/specimen/Montserrat) which was used for main text content. 
