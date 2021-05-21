@@ -126,7 +126,7 @@ Wireframe mockups were created in a Figma Workspace with providing a positive us
 
 #### *Colours*
 In this project the colours presented are the following:
-![Colour-swacthes-for-project](assets/images/colour-swatches.png)
+![Colour-wacthesfor-project](assets/images/colour-swatches.png)
 
 #### *Typography*
 Two type of Fonts were imported from Google Fonts. [Audiowide](https://fonts.google.com/specimen/Audiowide) was used for Headers content, having a bigger weight and bold feeling causing a contrast with the lightness of [Montserrat](https://fonts.google.com/specimen/Montserrat) which was used for main text content. 
@@ -150,11 +150,11 @@ Lost link to hero image.
     - Featured on all five pages, the full responsive navigation bar includes links to the Logo, Home page, Trainers page (displayed as Team), Location page and  Login page. 
     - It is identical in each page to allow for easy navigation. This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
 
-![headerimage](assets/images/header.png)
+![headerimage](assets/images/header-readme.png)
 
 - ### Hero Image Section
-    - This section introduces the user to SHAPE with an eye catching animation to grab their attention. The Lading Page includes a photograph with text overlay. And a Call-to-Action for the user to Book a Trial.
-
+    - This section introduces the user to SHAPE with an eye catching animation to grab their attention, includes a photograph with text overlay. 
+    - A Call-to-Action for the user to Book a Trial.
 
 ![hero-image](assets/images/hero-image-readme.png)
 
@@ -363,39 +363,32 @@ Since this is a fictional business idea, some content was taken from the web, ma
 
      - Image used on Login Page found [here](https://www.shape.com/fitness/workouts/10-new-outdoor-workout-ideas).
 
+     - Outdoor workout video found [here](https://www.youtube.com/watch?v=DLDlszsQUFg&t=21s).
+
+     - Map Image on Location Page found [here](https://tmstools.co.th/sample-page/map-location-pin/).
+
+     - Icons used can be found [here](https://fontawesome.com/).
+
 missing images from men review
-
-
 
 #
 ### *Code*
--credit for info about on how to make an image animation 
-http://css3.bradshawenterprises.com/cfimg/
+ - In this section you cand find all the links that helped and guided me in terms of Code used in order to achieve mostly the desired styling.
+   
+   - [Fade-In-Animation](http://css3.bradshawenterprises.com/cfimg/)
 
--credit for bootstrap review carousel
-https://www.nicesnippets.com/snippet/bootstrap-4-testimonials-or-people-review-slider
+   - [Bootstrap Review Carousel](https://www.nicesnippets.com/snippet/bootstrap-4-testimonials-or-people-review-slider)
 
--credit for keyframes content
-https://thoughtbot.com/blog/css-animation-for-beginners
+   - [Hero-Image Text Animation](https://thoughtbot.com/blog/css-animation-for-beginners)
 
--credit for learning about gradients
-https://www.w3schools.com/css/tryit.asp?filename=trycss3_gradient-linear_trans
+   - [Gradient Styling](https://www.w3schools.com/css/tryit.asp?filename=trycss3_gradient-linear_trans)
 
--credit for learning about text-shadow
-https://www.w3schools.com/cssref/css3_pr_text-shadow.asp
+   - [Text Shadow](https://www.w3schools.com/cssref/css3_pr_text-shadow.asp)
 
--credit for learning about moving text animation
-https://stackoverflow.com/questions/25717562/how-to-move-text-using-css-animation
+   - [Moving Text Animation](https://stackoverflow.com/questions/25717562/how-to-move-text-using-css-animation)
 
--credit for learning about opacity keyframes
-https://css-tricks.com/snippets/css/keyframe-animation-syntax/
+   - [Opacity Keyframes](https://css-tricks.com/snippets/css/keyframe-animation-syntax/)
 #
-
-### Design Inspiration
-
-- [Colour Gradient Inspiration](http://www.flatuicolorpicker.com/red-rgba-color-model/)
-
-
 
 # Acknowledgments
 
