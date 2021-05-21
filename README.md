@@ -130,16 +130,7 @@ In this project the colours presented are the following:
 
 #### *Typography*
 Two type of Fonts were imported from Google Fonts. [Audiowide](https://fonts.google.com/specimen/Audiowide) was used for Headers content, having a bigger weight and bold feeling causing a contrast with the lightness of [Montserrat](https://fonts.google.com/specimen/Montserrat) which was used for main text content. 
-
-### *Images*
-Lost link to hero image.
-
-[Review Image 1](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxijXW82ZpZwGVAhkTffY_nc5vcwTyb8kOF4LTm61EdX4PuQ6ZgDIBDMnePtN2qiR4IzI&usqp=CAU)
-
-[Revie Image 2](https://www.google.com/imgres?imgurl=http%3A%2F%2Fjoyfuljourneyhotsprings.com%2Fwp-content%2Fuploads%2F2013%2F07%2Fphotodune-4276142-smiling-portraits-xl_411.jpg&imgrefurl=http%3A%2F%2Fjoyfuljourneyhotsprings.com%2Fphotodune-4276142-smiling-portraits-xl_41%2F&tbnid=UvdalxaHs5escM&vet=10CBkQxiAoBWoXChMI-KX_hfiS8AIVAAAAAB0AAAAAEAI..i&docid=V3TPYEo3PZDusM&w=760&h=758&itg=1&q=face%20portrait%20smile&ved=0CBkQxiAoBWoXChMI-KX_hfiS8AIVAAAAAB0AAAAAEAI)
-
 #
-
 # Features
 
 ## Existing Features
@@ -149,13 +140,11 @@ Lost link to hero image.
 - ### Navigation Bar
     - Featured on all five pages, the full responsive navigation bar includes links to the Logo, Home page, Trainers page (displayed as Team), Location page and  Login page. 
     - It is identical in each page to allow for easy navigation. This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
-
 ![headerimage](assets/images/header-readme.png)
 
 - ### Hero Image Section
     - This section introduces the user to SHAPE with an eye catching animation to grab their attention, includes a photograph with text overlay. 
     - A Call-to-Action for the user to Book a Trial.
-
 ![hero-image](assets/images/hero-image-readme.png)
 
 - ### Join Classes Section
@@ -164,30 +153,27 @@ Lost link to hero image.
    2. Introduction text to Outdoor Workout
    3. A illustrative Call-to-Action where hypothetically users would be guided to Ask any question regarding SHAPE
    4. A Youtube video of an Outdoor Workout represating what the classes hypothetically would be like
-   
-   ![first-section-homepage](assets/images/section1-home-readme.png)
+ ![first-section-homepage](assets/images/section1-home-readme.png)
 
 - ### Benefits Outdoor Section
    - This section is divided in 4 focal points:
-   1. Informative text on Outdoor Workout
-   2. 4 Benefits of Outdoor Workout
-   3. A Call-to-Action where users who wish to know more about Outdoor Workout will be guided to the Blog Section. 
-   4. An Image animation illustrative of Outdoor Workout.
-
+   1. Informative text on Outdoor Workout;
+   2. 4 Benefits of Outdoor Workout;
+   3. A Call-to-Action where users who wish to know more about Outdoor Workout will be guided to the Blog Section;
+   4. Fade-In Image animation with outdoor workout pictures;
 ![second-section-homepage](assets/images/section2-homepage-readme.png)
 
 - ### Book Trial Section
    - This section is divided in 2 focal points:
-   1. A form where the user can fill in details in order to have a trial at SHAPE.
-   2. An example of a promotional image.
-
+   1. A form where the user can fill in details in order to have a trial at SHAPE;
+   2. A promotional image;
 ![booktrial-section-homepage](assets/images/trial-homepage-readme.png)
 
 - ### Footer
-   - The Footer has the same design and content in all pages of this website in order to keep a consistent look.
-   - The footer is valuable to the user as it encourages them to keep connected via social media.
-    
-    [image]
+   - The Footer has the same design and content in all pages of this website in order to keep a consistent look;
+   - The footer is valuable to the user as it encourages them to keep connected via social media;
+   
+    INSERT FOOTER IMAGE
 
 - ## Team Page
 
@@ -199,32 +185,34 @@ Lost link to hero image.
    
 - ### Classes Schedule & Reviews Section
    - This section is divided in 3 focal points:
-   1. Informative text guiding the user to see the schedule below.
-   2. A Schedule where the User can check the classes location, which type of exercise and the intensity of the class.
-   3. A Review container animated by JavaScript, where users can get feedback from other users about SHAPE's services.
-
-   ![classes-section-location-page](assets/images/schedule-loc-readme.png)
+   1. Informative text guiding the user to see the schedule below;
+   2. A Schedule where the User can check the classes location, which type of exercise and the intensity of the class;
+   3. A Review container animated by JavaScript, where users can get feedback from other users about SHAPE's services;
+ ![classes-section-location-page](assets/images/schedule-loc-readme.png)
 
 - ### Location & Contact Section
    - This section is divided in 2 focal points:
-   1. An image of map  where as the classes would hypothetically occur as a visual aid for the user.
-   2. An area where the User can get acess to SHAPE's email address.
-
+   1. An image of map  where as the classes would hypothetically occur as a visual aid for the user;
+   2. An area where the User can get acess to SHAPE's email address;
 ![location&contactsection-location-page](assets/images/location-loc-readme.png)
+
 - ## Blog Page
-- ### Article ...
-    - ....
-    - ....
-    - ....
+
+- ### Articles Grid
+    - This section is divided in 3 focal points:
+    1. The Header;
+    2. One row where two examples of articlea are shown;
+    3. A second row where two other articles are displayed.
 ![blog1](assets/images/blog1section-readme.png)
 ![blog2](assets/images/blog2section-readme.png)
+
 - ## Login Page
+
 - ### Login Area
     - This section is composed by:
     1. A Heading with its Title.
     2. An promotional image.
     3. A form allowing the users to Login In and access their personal account.
-
 ![login-tite-loginpage](assets/images/header-login-readme.png)
 ![login-are-loginpage](assets/images/loginarea-login-readme.png)
      
@@ -239,61 +227,59 @@ Lost link to hero image.
 ....
 
 #
-
 # Technologies Used
 
-### *Main Languages Used*
+- ### *Main Languages Used*
 
-- ![HTML5](assets/images/html-icon.png)  [HTML5](https://nl.wikipedia.org/wiki/HTML5) 
+  - ![HTML5](assets/images/html-icon.png)  
 
-HyperText Markup Language is a markup language used for structuring and presenting content on the World Wide Web.
+    - [HTML5](https://nl.wikipedia.org/wiki/HTML5) is a markup language used for structuring and presenting content on the World Wide Web.
 
-- ![CSS3](assets/images/css-icon.png)  [CSS3](https://en.wikipedia.org/wiki/CSS) 
+  - ![CSS3](assets/images/css-icon.png)   
 
-Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML.
+    - [CSS3](https://en.wikipedia.org/wiki/CSS) is a style sheet language used for describing the presentation of a document written in a markup language such as HTML.
 
-### *Additional Languages Used*
+- ### *Additional Languages Used*
 
-- ![JavaScript](assets/images/javascript.png)  [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
+  - ![JavaScript](assets/images/javascript.png)  
 
-Often abbreviated as JS, is a programming language that conforms to the ECMAScript specification. This language was used to allow the responsiveness of the Navigation Bar once it is viewed on smaller resolution devices.
+    - [JavaScript](https://en.wikipedia.org/wiki/JavaScript) often abbreviated as JS, is a programming language that conforms to the ECMAScript specification. This language was used to allow the responsiveness of the Navigation Bar once it is viewed on smaller resolution devices.
 
-#### *Frameworks, Libraries & Programs Used*
-- ![Bootstrap](assets/images/bootstrap-icon.png)  [Bootstrap4](https://getbootstrap.com/)
+- #### *Frameworks, Libraries & Programs Used*
+  - ![Bootstrap](assets/images/bootstrap-icon.png) 
 
-Used to help achieve responsiveness of the website.
+    - [Bootstrap4](https://getbootstrap.com/) used to help achieve responsiveness of the website.
 
-- ![Google Fonts](assets/images/googlefonts.png)[Google Fonts](https://fonts.google.com/) 
+  - ![Google Fonts](assets/images/googlefonts.png)
 
-Were imported and used for Header and general text content.
+    - [Google Fonts](https://fonts.google.com/) were imported and used for heading and body text.
 
-- ![Font Awesome](assets/images/font-awesome.png) [Font Awesome](https://fontawesome.com/) 
+  - ![Font Awesome](assets/images/font-awesome.png) 
 
-Icons were used to aid text content visusally. The icons were also used to display Social Links.
+    - [Font Awesome](https://fontawesome.com/)  icons were used to aid text content visusally. 
 
-- ![Figma](assets/images/figma5.png) [Figma](https://www.figma.com/) 
+  - ![Figma](assets/images/figma5.png) 
 
-Used to create Skeleton page and the Wireframes during the design phase of the project.
+    - [Figma](https://www.figma.com/) to create Skeleton page and the Wireframes during the design phase of the project.
 
-- [Am I Responsive](http://ami.responsivedesign.is/)
+  - [Am I Responsive](http://ami.responsivedesign.is/)
 
-Used in order to see responsive design throughout the process and to generate mockup imagery to be used.
+    - Used in order to see responsive design throughout the process and to generate mockup imagery to be used.
 
-#### *Workspace, version control and Repository storage*
+- #### *Workspace, version control and Repository storage*
 
-- ![GitPod](assets/images/gitpod.png) [GitPod](https://gitpod.io) 
+  - ![GitPod](assets/images/gitpod.png) 
 
-Main workspace IDE (Integrated Development Environment)
+    - [GitPod](https://gitpod.io) Main workspace IDE (Integrated Development Environment)
 
-- ![Git](assets/images/git-icon.png)[Git](https://git-scm.com/) 
+  - ![Git](assets/images/git-icon.png)
 
-Distributed Vgiersion Control tool to store versions of files and track changes.
+    - [Git](https://git-scm.com/) distributed Vgiersion Control tool to store versions of files and track changes.
 
-- ![GitHub](assets/images/github.png) [GitHub](https://github.com/)
+  - ![GitHub](assets/images/github.png) 
 
-A cloud-based hosting service to manage my Git repositories.
+    - [GitHub](https://github.com/) a cloud-based hosting service to manage my Git repositories.
 #
-
 # Testing
 
 testing.md
@@ -312,11 +298,10 @@ testing.md
 #
 
 #
-
 # Credits
 
 ### *Content*
-Since this is a fictional business idea, some content was taken from the web, mainly from other fitness websites in order for the project to look more credible, not having the purpose of any sort of promotion. Link references of the content that was used are shown right below:
+Since this is a fictional business idea, some content was taken from the web, mainly from other fitness websites in order for the project to look more credible. Link references of the content that was used are shown right below:
 
 - ## Homepage
     - The Benefits of Outoor Workout Section was based on this [article](https://www.primalplay.com/blog/benefits-of-outdoor-exercise).
@@ -347,7 +332,6 @@ Since this is a fictional business idea, some content was taken from the web, ma
     - The second article on the second row can be found [here]()
 
 #
-
 ### *Media*
 
 - ## Images
@@ -369,9 +353,9 @@ Since this is a fictional business idea, some content was taken from the web, ma
 
      - Icons used can be found [here](https://fontawesome.com/).
 
-missing images from men review
-
+     - [User 1](https://www.google.com/imgres?imgurl=http%3A%2F%2Fjoyfuljourneyhotsprings.com%2Fwp-content%2Fuploads%2F2013%2F07%2Fphotodune-4276142-smiling-portraits-xl_411.jpg&imgrefurl=http%3A%2F%2Fjoyfuljourneyhotsprings.com%2Fphotodune-4276142-smiling-portraits-xl_41%2F&tbnid=UvdalxaHs5escM&vet=10CBkQxiAoBWoXChMI-KX_hfiS8AIVAAAAAB0AAAAAEAI..i&docid=V3TPYEo3PZDusM&w=760&h=758&itg=1&q=face%20portrait%20smile&ved=0CBkQxiAoBWoXChMI-KX_hfiS8AIVAAAAAB0AAAAAEAI)) review &[ User 2](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxijXW82ZpZwGVAhkTffY_nc5vcwTyb8kOF4LTm61EdX4PuQ6ZgDIBDMnePtN2qiR4IzI&usqp=CAU) review.
 #
+
 ### *Code*
  - In this section you cand find all the links that helped and guided me in terms of Code used in order to achieve mostly the desired styling.
    
