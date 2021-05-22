@@ -1021,4 +1021,43 @@ iframe{
     width: 266px;
     left: 121px;
 }
+#fith {
+    position: relative;
+    height: 570px;
+    width: auto;
+    background-color: #ff5961;
+    border-radius: 1%;
+}
+#index-form {
+    background-image: linear-gradient(to right, #fe9a818c, #fe9c82ad, #ff5961);
+    height: 285px;
+    width: 348px;
+    padding-top: 11px;
+    padding-left: 38px;
+    border: 0px solid white;
+    padding-top: 26px;
+    color: white;
+    text-shadow: -2px 1px 4px black;
+    margin-top: 1px;
+    margin-left: -14px;
+    border-radius: 1%;
+}
+#trial-image {
+    height: 226px;
+    position: absolute;
+    left: 32px;
+    width: auto;
+    bottom: -255px;
+    margin-top: 20px;
+    border-radius: 11%;
+    opacity: 80%;
+}
+footer {
+    height: 70px;
+    background-color: rgb(255 143 143);
+    margin-top: 6px;
+    text-align: center;
+    font-size: 19px;
+    padding-top: 12px;
+}
 }
