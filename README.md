@@ -3,20 +3,16 @@
 [Link of Live Project](https://)
 #
 # Introduction
-
-# SHAPE
-
-*SHAPE* is a fictional gym aiming to promote their outdoor workouts exercises. Due to COVID-19 restrictions gyms have been temporarily closed, leaving many of its clients with no options to workout. This site will target current clients, introducing a new area where they can login into their account. It will target also potential costumers, who are curious to know more details about the classes, location and more information about the trainers. 
-
+SHAPE is a fictional gym aiming to promote their outdoor workouts exercises. Due to COVID-19 restrictions gyms have been temporarily closed, leaving many of its clients with no options to workout. This site will target current clients, introducing a new area where they can login into their account. It will target also potential costumers, who are curious to know more details about the classes, location and more information about the trainers. 
 #
 
 # UX
-## Ideal User Demographic
+### Ideal User Demographic
 The ideal user of this website is:
 - Current Costumers
 - Potential Costumer
 
-## User Stories
+### User Stories
 
 ### *Current Costumer:*
 
@@ -41,7 +37,7 @@ The ideal user of this website is:
 ## Development Planes
 In order to achieve a comprehensive and informative website User Experience methodology was implemented to help research and layout the project structure. 
 
-## Strategy Plane
+### Strategy Plane
 
 The main goal of this project is to create a responsive and informative website to reach SHAPE's costumers and potential costumers. It is of high importance to make an easy to navigate layout and only have the most relevant content displayed so the user has a quick and learning interaction. 
 
@@ -68,7 +64,7 @@ The main goal of this project is to create a responsive and informative website 
    - Fast paced
    - Fitness enthusiastic
 
-## Website Goals:
+### Website Goals:
 
 1. Introduce current clients to the new Login area and Blog
 2. Communicate what type of workout and schedules the gym offers
