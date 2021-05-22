@@ -6,7 +6,7 @@
 
 # SHAPE
 
-*SHAPE* is a fictional gym based in Rotterdam, aiming to promote Outdoor exercise. Due to COVID-19 restrictions gyms have been temporarily closed, leaving many of its clients with no other options to workout. This site will target current clients, introducing a new area where they can Login into their account. It will target also potential costumers, who are curious to know more details about the classes, location and more information about the Trainers. 
+*SHAPE* is a fictional gym aiming to promote their outdoor workouts exercises. Due to COVID-19 restrictions gyms have been temporarily closed, leaving many of its clients with no options to workout. This site will target current clients, introducing a new area where they can login into their account. It will target also potential costumers, who are curious to know more details about the classes, location and more information about the trainers. 
 
 #
 
@@ -18,7 +18,7 @@ The ideal user of this website is:
 
 ## User Stories
 
-#### *Current Costumer:*
+### *Current Costumer:*
 
 - As a current costumer, I want to know the sessions schedule, so that I could possibly book a workout.
 
@@ -26,7 +26,7 @@ The ideal user of this website is:
 
 - As a current costumer, I want to be able to contact the Trainers, so that I could ask for advice and recommendatios regarding the Sessions.
 
-#### *Potential Costumer:*
+### *Potential Costumer:*
 
 - As a potential costumer, I want to know what services this gym offers, so that I could possibly join.
 
@@ -41,34 +41,34 @@ The ideal user of this website is:
 ## Development Planes
 In order to achieve a comprehensive and informative website User Experience methodology was implemented to help research and layout the project structure. 
 
-### Strategy Plane
+## Strategy Plane
 
 The main goal of this project is to create a responsive and informative website to reach SHAPE's costumers and potential costumers. It is of high importance to make an easy to navigate layout and only have the most relevant content displayed so the user has a quick and learning interaction. 
 
-- #### *Roles:*
+- ### *Roles:*
    - Current Costumers
    - Potential Costumers
    - People who workout Outdoors
 
-- #### *Age Target:*
+- ### *Age Target:*
    - 25 to 50 years old
 
-- #### *Personality:*
+- ### *Personality:*
    - Enjoys challenges
    - Interested in fitness content
    - Likes to workout outdoors
 
-- #### *Values:*
+- ### *Values:*
    - Goal-oriented
    - Active lifestyle
    - Seeking Self-Accomplishment and Growth
 
-- #### *Lifestyles:*
+- ### *Lifestyles:*
    - Structured and routine like
    - Fast paced
    - Fitness enthusiastic
 
-### Website Goals:
+## Website Goals:
 
 1. Introduce current clients to the new Login area and Blog
 2. Communicate what type of workout and schedules the gym offers
@@ -76,13 +76,14 @@ The main goal of this project is to create a responsive and informative website 
 4. Create a Blog area that is informative to users on fitness related articles
 5. Build connection with the user 
 
-- #### Website enables *SHAPE* to:
+- ### Website enables *SHAPE* to:
     - Have a presence online
     - Promote their services
     - Have a community platform
     - Possibly reach more users
 
-*A Strategy Table was created to determine the trade-off between Importance and Viability/Feasibility with the following results:*
+ - ### Strategy Table
+   - A Strategy table was created in order to determine the trade-off between *Importance* and *Viability/Feasibility*:
 
 | Opportunity/Problem   | Importance    | Viability/Feasibility|
 | ---------------------:| -------------:| --------------------:|
@@ -91,11 +92,11 @@ The main goal of this project is to create a responsive and informative website 
 | Communicate Services Offered| 5| 5|
 | Display Informative Content| 4| 4|
 
-### Scope Plane
+## Scope Plane
 
 A Scope was conducted in order to determine the Content and Features needed on the Website. 
 
-- #### *Content Requirements:*
+- ### *Content Requirements:*
     - Introduce users to SHAPE
     - Promote classes and Introduce Trainers  
     - Indicate location of the classes
@@ -103,7 +104,7 @@ A Scope was conducted in order to determine the Content and Features needed on t
     - Contact details
     - Social links
 
-- #### *Functionality Requirements:*
+- ### *Functionality Requirements:*
     - Responsive and easy to navigate layout
     - Simple and informative content 
     - Appealing design
@@ -111,25 +112,25 @@ A Scope was conducted in order to determine the Content and Features needed on t
     - Call-to-Action effectiveness
 #
 
-### Structure
-The information architecture was organized in a hierarchial tree structure in order to ensure that users could navigate through the site with ease and efficiency, with the following results:
+## Structure
+- The information architecture was organized in a hierarchial tree structure in order to ensure that users could navigate through the site with ease and efficiency, with the following results:
 ![SkeletonImage](assets/images/skeleton.png)
 #
 
-### Skeleton
+## Skeleton
 
-Wireframe mockups were created in a Figma Workspace with providing a positive user experience in mind:
+- Wireframe mockups were created in a Figma Workspace with providing a positive user experience in mind:
 [Wireframes]
 #
 
-### Design
+## Design
 
-#### *Colours*
-In this project the colours presented are the following:
-![Colour-wacthesfor-project](assets/images/colour-swatches.png)
+### Colours
+- The colours presented are the following:![Colour-wacthesfor-project](assets/images/colour-swatches.png)
 
-#### *Typography*
-Two type of Fonts were imported from Google Fonts. [Audiowide](https://fonts.google.com/specimen/Audiowide) was used for Headers content, having a bigger weight and bold feeling causing a contrast with the lightness of [Montserrat](https://fonts.google.com/specimen/Montserrat) which was used for main text content. 
+### Typography
+- Two types of Google Fonts were importe:
+  -  [Audiowide](https://fonts.google.com/specimen/Audiowide) was used for Headers content, having a bigger weight and bold feeling causing a contrast with the lightness of [Montserrat](https://fonts.google.com/specimen/Montserrat) which was used for main text content. 
 #
 # Features
 
@@ -140,12 +141,12 @@ Two type of Fonts were imported from Google Fonts. [Audiowide](https://fonts.goo
 - ### Navigation Bar
     - Featured on all five pages, the full responsive navigation bar includes links to the Logo, Home page, Trainers page (displayed as Team), Location page and  Login page. 
     - It is identical in each page to allow for easy navigation. This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
-![headerimage](assets/images/header-readme.png)
+    - ![headerimage](assets/images/header-readme.png)
 
 - ### Hero Image Section
     - This section introduces the user to SHAPE with an eye catching animation to grab their attention, includes a photograph with text overlay. 
     - A Call-to-Action for the user to Book a Trial.
-![hero-image](assets/images/hero-image-readme.png)
+    - ![hero-image](assets/images/hero-image-readme.png)
 
 - ### Join Classes Section
    - This section is divided in 4 focal points:
@@ -153,7 +154,7 @@ Two type of Fonts were imported from Google Fonts. [Audiowide](https://fonts.goo
    2. Introduction text to Outdoor Workout
    3. A illustrative Call-to-Action where hypothetically users would be guided to Ask any question regarding SHAPE
    4. A Youtube video of an Outdoor Workout represating what the classes hypothetically would be like
- ![first-section-homepage](assets/images/section1-home-readme.png)
+   - ![first-section-homepage](assets/images/section1-home-readme.png)
 
 - ### Benefits Outdoor Section
    - This section is divided in 4 focal points:
@@ -161,13 +162,13 @@ Two type of Fonts were imported from Google Fonts. [Audiowide](https://fonts.goo
    2. 4 Benefits of Outdoor Workout;
    3. A Call-to-Action where users who wish to know more about Outdoor Workout will be guided to the Blog Section;
    4. Fade-In Image animation with outdoor workout pictures;
-![second-section-homepage](assets/images/section2-homepage-readme.png)
+   - ![second-section-homepage](assets/images/section2-homepage-readme.png)
 
 - ### Book Trial Section
    - This section is divided in 2 focal points:
    1. A form where the user can fill in details in order to have a trial at SHAPE;
    2. A promotional image;
-![booktrial-section-homepage](assets/images/trial-homepage-readme.png)
+   - ![booktrial-section-homepage](assets/images/trial-homepage-readme.png)
 
 - ### Footer
    - The Footer has the same design and content in all pages of this website in order to keep a consistent look;
@@ -229,56 +230,43 @@ Two type of Fonts were imported from Google Fonts. [Audiowide](https://fonts.goo
 #
 # Technologies Used
 
-- ### *Main Languages Used*
+### Main Languages Used
 
-  - ![HTML5](assets/images/html-icon.png)  
+ ![HTML5](assets/images/html-icon.png)
+  - [HTML5](https://nl.wikipedia.org/wiki/HTML5) is a markup language used for structuring and presenting content on the World Wide Web.
+  
+ ![CSS3](assets/images/css-icon.png) 
+  - [CSS3](https://en.wikipedia.org/wiki/CSS) is a style sheet language used for describing the presentation of a document written in a markup language such as HTML
+  
+ ![JavaScript](assets/images/javascript.png)
+  - [JavaScript](https://en.wikipedia.org/wiki/JavaScript) often abbreviated as JS, is a programming language that conforms to the ECMAScript specification.[9] JavaScript is high-level, often just-in-time compiled, and multi-paradigm. It has curly-bracket syntax, dynamic typing, prototype-based object-orientation, and first-class functions.
 
-    - [HTML5](https://nl.wikipedia.org/wiki/HTML5) is a markup language used for structuring and presenting content on the World Wide Web.
+### Frameworks, Libraries & Programs Used
+ ![Bootstrap](assets/images/bootstrap-icon.png) 
+  - [Bootstrap4](https://getbootstrap.com/) used to help achieve responsiveness of the website.
 
-  - ![CSS3](assets/images/css-icon.png)   
+ ![Google Fonts](assets/images/googlefonts.png)
+  - [Google Fonts](https://fonts.google.com/) were imported and used for heading and body text.
 
-    - [CSS3](https://en.wikipedia.org/wiki/CSS) is a style sheet language used for describing the presentation of a document written in a markup language such as HTML.
+ ![Font Awesome](assets/images/font-awesome.png) 
+  - [Font Awesome](https://fontawesome.com/)  icons were used to aid text content visusally. 
 
-- ### *Additional Languages Used*
+  ![Figma](assets/images/figma5.png) 
+  - [Figma](https://www.figma.com/) to create Skeleton page and the Wireframes during the design phase of the project.
 
-  - ![JavaScript](assets/images/javascript.png)  
+  [Am I Responsive](http://ami.responsivedesign.is/)
+  - Used in order to see responsive design throughout the process and to generate mockup imagery to be used.
 
-    - [JavaScript](https://en.wikipedia.org/wiki/JavaScript) often abbreviated as JS, is a programming language that conforms to the ECMAScript specification. This language was used to allow the responsiveness of the Navigation Bar once it is viewed on smaller resolution devices.
+ ### Workspace, version control and Repository storage
 
-- #### *Frameworks, Libraries & Programs Used*
-  - ![Bootstrap](assets/images/bootstrap-icon.png) 
+  ![GitPod](assets/images/gitpod.png) 
+  - [GitPod](https://gitpod.io) Main workspace IDE (Integrated Development Environment)
 
-    - [Bootstrap4](https://getbootstrap.com/) used to help achieve responsiveness of the website.
+  ![Git](assets/images/git-icon.png)
+  - [Git](https://git-scm.com/) distributed Vgiersion Control tool to store versions of files and track changes.
 
-  - ![Google Fonts](assets/images/googlefonts.png)
-
-    - [Google Fonts](https://fonts.google.com/) were imported and used for heading and body text.
-
-  - ![Font Awesome](assets/images/font-awesome.png) 
-
-    - [Font Awesome](https://fontawesome.com/)  icons were used to aid text content visusally. 
-
-  - ![Figma](assets/images/figma5.png) 
-
-    - [Figma](https://www.figma.com/) to create Skeleton page and the Wireframes during the design phase of the project.
-
-  - [Am I Responsive](http://ami.responsivedesign.is/)
-
-    - Used in order to see responsive design throughout the process and to generate mockup imagery to be used.
-
-- #### *Workspace, version control and Repository storage*
-
-  - ![GitPod](assets/images/gitpod.png) 
-
-    - [GitPod](https://gitpod.io) Main workspace IDE (Integrated Development Environment)
-
-  - ![Git](assets/images/git-icon.png)
-
-    - [Git](https://git-scm.com/) distributed Vgiersion Control tool to store versions of files and track changes.
-
-  - ![GitHub](assets/images/github.png) 
-
-    - [GitHub](https://github.com/) a cloud-based hosting service to manage my Git repositories.
+  ![GitHub](assets/images/github.png) 
+  - [GitHub](https://github.com/) a cloud-based hosting service to manage my Git repositories.
 #
 # Testing
 
