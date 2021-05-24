@@ -520,11 +520,34 @@ footer{
     width: 249px;
     border: 3px solid red;
 }
+.trainer-details{
+    position: absolute;
+    top: 15px;
+    left: 302px;
+    background-color: #f53d46d6;
+    width: 262px;
+    height: 282px;
+    color: white;
+    border-radius: 3%;
+    padding-top: 13px;
+    padding-left: 10px;
+    margin-top: 9px;
+    text-shadow: 1px 2px 3px black;
+}
+.soundcloud{
+    position: absolute;
+    width: 249px;
+    height: 59px;
+    border-radius: 3%;
+    left: 3px;
+    top: 196px;
+}
         /*Team Page| Female Trainer Container*/
 .trainer-two{
     height: 300px;
     width: 250px;
     border: 3px solid red;
+    margin-top: 25px;
 }
         /*Location Page| Schedule Header Text*/
 .schedule-header{
