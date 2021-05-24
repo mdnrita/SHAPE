@@ -503,13 +503,29 @@ iframe{
 }
         /*ALL PAGES| Footer Section*/
 footer{
-    height: 47px;
+    height: 39px;
     background-color: rgb(255 143 143);
     margin-top: 24px;
     text-align: center;
     font-size: 19px;
-    padding-top: 11px;
+    padding-top: 6px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
 }  
+        /*Team Page| Male Trainer Container*/
+.trainer-one{
+    height: 300px;
+    width: 249px;
+    border: 3px solid red;
+}
+        /*Team Page| Female Trainer Container*/
+.trainer-two{
+    height: 300px;
+    width: 250px;
+    border: 3px solid red;
+}
         /*Location Page| Schedule Header Text*/
 .schedule-header{
     padding-left: 9px;
