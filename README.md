@@ -273,12 +273,49 @@ testing.md
 # Deployment
 
 ### *Deploying on GitHub Pages*
+- To deploy this page to GitHub Pages from its GitHub repository, the following steps were taken:
+
+1. Log into GitHub or create an account.
+2. Locate the GitHub Repository.
+3. At the top of the repository, select Settings from the menu items.
+4. Scroll down the Settings page to the "GitHub Pages" section.
+5. Under "Source" click the drop-down menu labelled "None" and select "Master Branch".
+6. Upon selection, the page will automatically refresh meaning that the website is now deployed.
+7. Scroll back down to the "GitHub Pages" section to retrieve the deployed link.
+8. At the time of submitting this Milestone project the Development Branch and Master Branch are identical.
 #
 
 ### *Forking the Repository*
+- By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps.
+
+1. Log into GitHub or create an account.
+2. Locate the GitHub Repository.
+3. At the top of the repository, on the right side of the page, select "Fork"
+4. You should now have a copy of the original repository in your GitHub account.
 #
 
 ### *Creating a Clone*
+- How to run this project locally:
+
+1. Install the GitPod Browser Extension for Chrome.
+2. After installation, restart the browser.
+3. Log into GitHub or create an account.
+4. Locate the GitHub Repository.
+5. Click the green "GitPod" button in the top right corner of the repository. This will trigger a new gitPod workspace to be created from the code in github where you can work locally.
+6. How to run this project within a local IDE, such as VSCode:
+
+- Log into GitHub or create an account.
+1. Locate the GitHub Repository.
+2. Under the repository name, click "Clone or download".
+3. In the Clone with HTTPs section, copy the clone URL for the repository.
+4. In your local IDE open the terminal.
+5. Change the current working directory to the location where you want the cloned directory to be made.
+6. Type 'git clone', and then paste the URL you copied in Step 3.
+                                    
+                                    git clone https://github.com/USERNAME/REPOSITORY
+
+7.Press Enter. Your local clone will be created.
+8.Further reading and troubleshooting on cloning a repository from GitHub here
 #
 
 #
@@ -356,6 +393,8 @@ Since this is a fictional business idea, some content was taken from the web, ma
    - [Moving Text Animation](https://stackoverflow.com/questions/25717562/how-to-move-text-using-css-animation)
 
    - [Opacity Keyframes](https://css-tricks.com/snippets/css/keyframe-animation-syntax/)
+
+   - [README Reference](https://github.com/rebeccatraceyt/KryanLive)
 #
 
 # Acknowledgments
