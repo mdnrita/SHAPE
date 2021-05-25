@@ -1,6 +1,6 @@
  amiresponsive image
 
-[Link of Live Project](https://)
+[Link of Live Project](https://mdnrita.github.io/SHAPE/)
 #
 # Introduction
 SHAPE is a fictional gym aiming to promote their outdoor workouts exercises. Due to COVID-19 restrictions gyms have been temporarily closed, leaving many of its clients with no options to workout. This site will target current clients, introducing a new area where they can login into their account. It will target also potential costumers, who are curious to know more details about the classes, location and more information about the trainers. 
