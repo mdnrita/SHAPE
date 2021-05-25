@@ -880,7 +880,7 @@ ul{
     position: absolute;
     height: 30px;
     width: 31px;
-    right: 322px;
+    left: 25px;
     top: 93px;
     border-radius: 20%;
     font-size: 16px;
@@ -939,7 +939,7 @@ ul{
     background-image: linear-gradient(to bottom right, #fb830887, #ff5961cc, #fea686);
     position: absolute;
     width: 122px;
-    right: 196px;
+    left: 57px;
     top: 98px;
     height: 29px;
     padding-top: 6px;
@@ -954,7 +954,7 @@ ul{
     background-image: linear-gradient(to bottom right, #fb830887, #ff5961cc, #fea686);
     position: absolute;
     width: 122px;
-    right: 195px;
+    left: 57px;
     padding-top: 5px;
     text-align: center;
     font-size: 10px;
@@ -1057,12 +1057,12 @@ iframe{
     width: 266px;
     left: 121px;
 }
-#fith {
+#three {
     position: relative;
-    height: 554px;
-    width: auto;
+    height: 497px;
+    margin-bottom: 25px;
     background-color: #ff5961;
-    border-radius: 12%;
+    border-radius: 4%;
 }
 #index-form {
     background-image: linear-gradient(to right, #fe9a818c, #fe9c82ad, #ff5961);
@@ -1079,19 +1079,18 @@ iframe{
     border-radius: 17%;
 }
 #trial-image {
-    height: 224px;
+    height: 176px;
     position: absolute;
-    left: 21px;
+    left: 67px;
     width: auto;
-    bottom: -244px;
-    margin-top: 20px;
+    bottom: -187px;
     border-radius: 11%;
     opacity: 80%;
 }
 footer {
-    height: 70px;
+    height: 46px;
     background-color: rgb(255 143 143);
-    margin-top: 6px;
+    margin-top: 30px;
     text-align: center;
     font-size: 19px;
     padding-top: 12px;
