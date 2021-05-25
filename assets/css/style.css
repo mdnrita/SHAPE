@@ -1096,3 +1096,57 @@ footer {
     padding-top: 12px;
 }
 }
+@media screen and (max-width: 768px){
+.hero-image {
+        height: 312px;
+        width: 640px;
+        margin-left: 62px;
+        opacity: 80%;
+        margin-bottom: 5px;
+        
+        animation-name: hero-image-animation;
+        animation-duration: 5s;
+    }
+.show-first {
+        position: absolute;
+        top: 94px;
+        left: 23px;
+        height: 76px;
+        width: 737px;
+        font-size: 40px;
+        text-shadow: -1px 0px 4px black;
+        padding-left: 1px;
+        padding-top: 13px;
+        font-style: italic;
+        color: white;
+        
+        animation-name: moving-text;
+        animation-duration: 4s;
+    }
+    @keyframes moving-text{
+        from{
+        top: 94px;
+        left: -780px;
+    }
+        to{
+        top: 94px;
+        left: px;
+    }
+}
+#trial-container {
+    position: absolute;
+    left: 260px;
+    top: 298px;
+    animation-name: second-hero-header;
+    animation-duration: 8s;
+}
+ul{
+    position: absolute;
+    height: 183px;
+    width: 159px;
+    left: -72px;
+    background-image: linear-gradient(86deg, rgb(193 39 39 / 63%), rgb(255 89 89), rgb(195 4 4 / 63%), rgb(255 16 16));
+    z-index: 1;
+    border-radius: 5%;
+}
+}
