@@ -173,25 +173,11 @@ i{
         /*Index|Third Section*/
 #three{
     position: relative;
-    height: 300px;
-}
-        /*Index| Fourth Section*/
-#four{
-    position: relative;
-    height: 490px;
-}        
-        /*Index| Fith Section*/
-#fith{
-    position: relative;
     height: 286px;
+    margin-bottom: 25px;
     background-color: #ff5961;
     border-radius: 4%;
-}        
-        /*Index| Sixth Section*/
-#sixth{
-    position: relative;
-    height: 265px;
-}        
+}       
         /*Index| DIV Benefits*/
 #container-benefits{
     position: relative;
@@ -275,7 +261,6 @@ i{
     border: 4px solid #ff5961;
 
     animation: change 9s infinite;
-
 }
         /*Index| Join our Classes Header*/
 #join-header{
@@ -548,6 +533,7 @@ footer{
     width: 250px;
     border: 3px solid red;
     margin-top: 25px;
+    margin-bottom: 20px;
 }
         /*Location Page| Schedule Header Text*/
 .schedule-header{
@@ -639,6 +625,7 @@ ol{
     background-color: #ff5961;
     border-radius: 4%;
     margin-top: 16px;
+    margin-bottom: 20px;
 }
         /*Location Page| Contact Area*/
 .contact-location{
@@ -714,6 +701,7 @@ ol{
     background-color: rgb(240 99 99 / 89%);
     border-radius: 2%;
     margin-top: 15px;
+    margin-bottom: 61px;
 }
          /*Login Image*/
 #login-image{
