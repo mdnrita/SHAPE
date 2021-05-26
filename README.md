@@ -116,7 +116,10 @@ A Scope was conducted in order to determine the Content and Features needed on t
 ## Skeleton
 
 - Wireframe mockups were created in a Figma Workspace with providing a positive user experience in mind:
-[Wireframes]
+
+### Homepage
+
+![Homepage Wireframe](assets/images/wireframe-home.png)
 #
 
 ## Design
