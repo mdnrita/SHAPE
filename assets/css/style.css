@@ -519,6 +519,7 @@ footer{
     margin-top: 9px;
     text-shadow: 1px 2px 3px black;
 }
+        /*Team Page| Favourite Playlist*/
 .soundcloud{
     position: absolute;
     width: 249px;
@@ -547,6 +548,10 @@ footer{
     color: white;
     box-shadow: -2px 2px 3px black;
 }        
+        /*Location Page| First Container*/
+#schedule{
+    height: 310px;
+}
         /*Location Page| Classes Schedule*/
 table{
     height: 221px;
@@ -728,7 +733,7 @@ ol{
 }        
          /*Media queries*/
 @media screen and (max-width: 425px) {
-
+        /*Index| 425px max-width*/ 
 header{
     height: 57px;
     border-bottom: 4px solid red;
@@ -1095,8 +1100,10 @@ footer {
     font-size: 19px;
     padding-top: 12px;
 }
+        /*End of Index Max-Width*/
 }
 @media screen and (max-width: 768px){
+        /*Index| Max-Width 768px*/
 .hero-image {
         height: 312px;
         width: 640px;
@@ -1353,4 +1360,72 @@ iframe {
     border-radius: 9%;
     opacity: 90%;
 }
+        /*End of Index Max-Width*/
+        /*Location Page| Max-Width 768px*/
+.schedule-header {
+    padding-left: 9px;
+    padding-top: 9px;
+    text-transform: capitalize;
+    width: 450px;
+    height: 65px;
+    margin-top: 10px;
+    text-shadow: -1px 1px 1px black;
+    background-color: #ff00007a;
+    color: white;
+    box-shadow: -2px 2px 3px black;
+}
+table {
+    height: 176px;
+    width: 517px;
+    margin-top: 32px;
+    border-left: 4px solid red;
+    box-shadow: 1px 1px 4px black;
+}
+#review-container {
+    position: relative;
+    height: 308px;
+    top: -9px;
+    width: 152px;
+    left: 91px;
+}
+#left-arrow {
+    position: absolute;
+    height: 19px;
+    top: 132px;
+    left: 80px;
+    background-color: #ff5961;
+    width: 17px;
+}
+#right-arrow {
+    position: absolute;
+    height: 20px;
+    top: 134px;
+    left: 235px;
+    background-color: #ff5961;
+    width: 16px;
+}
+.contact-location {
+    height: 105px;
+    background-color: #efe7e7;
+    margin-top: 37px;
+    width: 278px;
+    margin-left: 45px;
+    padding-left: 21px;
+    padding-top: 14px;
+    border-radius: 4%;
+    color: black;
+    text-shadow: 1px 0px 1px black;
+    border: 1px solid red;
+}
+        /*Blog Page| Max-Width 768px*/
+#two-row {
+    height: 299px;
+    border: 1px solid red;
+}
+#third-row {
+    height: 306px;
+    border: 1px solid red;
+    margin-bottom: 72px;
+}
+       /*Blog Page| Max-Width end*/
 }
