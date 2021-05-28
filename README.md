@@ -1,4 +1,4 @@
- amiresponsive image
+![AmIResposnive image](assets/images/amiresponsive.png)
 
 [Link of Live Project](https://mdnrita.github.io/SHAPE/)
 #
