@@ -140,12 +140,12 @@ A Scope was conducted in order to determine the Content and Features needed on t
 - ### Navigation Bar
     - Featured on all five pages, the full responsive navigation bar includes links to the Logo, Home page, Trainers page (displayed as Team), Location page and  Login page. 
     - It is identical in each page to allow for easy navigation. This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
-    - ![headerimage](assets/images/header-readme.png)
+   ![headerimage](assets/images/header-readme.png)
 
 - ### Hero Image Section
     - This section introduces the user to SHAPE with an eye catching animation to grab their attention, includes a photograph with text overlay. 
     - A Call-to-Action for the user to Book a Trial.
-    - ![hero-image](assets/images/hero-image-readme.png)
+   ![hero-image](assets/images/hero-image-readme.png)
 
 - ### Join Classes Section
    - This section is divided in 4 focal points:
@@ -153,7 +153,7 @@ A Scope was conducted in order to determine the Content and Features needed on t
    2. Introduction text to Outdoor Workout
    3. A illustrative Call-to-Action where hypothetically users would be guided to Ask any question regarding SHAPE
    4. A Youtube video of an Outdoor Workout represating what the classes hypothetically would be like
-   - ![first-section-homepage](assets/images/section1-home-readme.png)
+   ![first-section-homepage](assets/images/section1-home-readme.png)
 
 - ### Benefits Outdoor Section
    - This section is divided in 4 focal points:
@@ -161,25 +161,29 @@ A Scope was conducted in order to determine the Content and Features needed on t
    2. 4 Benefits of Outdoor Workout;
    3. A Call-to-Action where users who wish to know more about Outdoor Workout will be guided to the Blog Section;
    4. Fade-In Image animation with outdoor workout pictures;
-   - ![second-section-homepage](assets/images/section2-homepage-readme.png)
+   ![second-section-homepage](assets/images/section2-homepage-readme.png)
 
 - ### Book Trial Section
    - This section is divided in 2 focal points:
    1. A form where the user can fill in details in order to have a trial at SHAPE;
    2. A promotional image;
-   - ![booktrial-section-homepage](assets/images/trial-homepage-readme.png)
+   ![booktrial-section-homepage](assets/images/trial-homepage-readme.png)
 
 - ### Footer
    - The Footer has the same design and content in all pages of this website in order to keep a consistent look;
    - The footer is valuable to the user as it encourages them to keep connected via social media;
    
-    INSERT FOOTER IMAGE
+    ![footer](assets/images/footer.png)
 
 - ## Team Page
+   This page consists of:
 
-- TRAINERS PICTURE
-- TRAINERS PROFILE
-- SUGEGESTED WORKOUT PLAYLIST
+   1. The Page Header;
+   ![header of trainers page](assets/images/trainers-first.png)
+
+   2. Trainers Profile divided into 2 columns:
+   ![male-trainer](assets/images/trainers-second.png)
+   ![female-trainer](assets/images/trainers-third.png)
 
 - ## Location Page
    
