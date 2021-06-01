@@ -120,6 +120,22 @@ A Scope was conducted in order to determine the Content and Features needed on t
 ### Homepage
 
 ![Homepage Wireframe](assets/images/wireframe-home.png)
+
+### Team Page
+
+![Team Page Wireframe](assets/images/team-wireframe.png)
+
+### Location Page
+
+![Location Page Wireframe](assets/images/location-wireframe.png)
+
+### Blog Page
+
+![Blog Page Wireframe](assets/images/blog-wireframe.png)
+
+### Login Page
+
+![Login Page Wireframe]()
 #
 
 ## Design
