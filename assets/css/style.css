@@ -749,6 +749,31 @@ ol{
     font-size: 12px;
 }        
          /*Media queries*/
+
+@media screen and (max-width: 1024px){
+    /*Index| Max-Width 1024px*/
+.hero-image {
+    margin-left: 369px;
+}
+iframe{
+    left: 137px;
+    top: 2px;
+    width: 322px;
+    height: 194px;
+}
+#ready-image{
+    height: 263px;
+    width: 340px;
+    left: 138px;
+    top: 16px;
+}
+#second-ready-image{
+    height: 260px;
+    width: 345px;
+    top: 17px;
+    right: 0px;
+}
+
 @media screen and (max-width: 768px){
         /*Index| Max-Width 768px*/
 .hero-image {
@@ -1007,10 +1032,9 @@ ol{
         border-radius: 9%;
         opacity: 90%;
     }
-            /*End of Index Max-Width*/
-            /*Team Page| Max-Width 768px*/
-
-            /*Location Page| Max-Width 768px*/
+        /*End of Index| Max-Width 768px*/
+           
+         /*Location Page| Max-Width 768px*/
     .schedule-header {
         padding-left: 9px;
         padding-top: 9px;
@@ -1076,10 +1100,11 @@ ol{
         border: 1px solid red;
         margin-bottom: 72px;
     }
-           /*Blog Page| Max-Width end*/
+           /*END Max-Width 768px*/
     }
+
 @media screen and (max-width: 425px) {
-        /*Index| 425px max-width*/ 
+        /*Index| Max-Width 425pxh*/ 
 header{
     height: 57px;
     border-bottom: 4px solid red;
@@ -1110,6 +1135,7 @@ ul{
     height: 291px;
     width: 265px;
     margin-left: 50px;
+    opacity: 30%;
 }
 .show-first{
     position: absolute;
@@ -1447,19 +1473,8 @@ footer {
     padding-top: 12px;
 }
         /*End of Index Max-Width 425px*/
+
         /*Team page| Max-Width 425px*/
-.trainer-one {
-    height: 106px;
-    width: 107px;
-    border: 3px solid red;
-}
-.trainer-two {
-    height: 112px;
-    width: 111px;
-    border: 3px solid red;
-    margin-top: 238px;
-    margin-bottom: 16px;
-}
 .trainer-details {
     font-size: 10px;
     position: absolute;
@@ -1497,12 +1512,12 @@ footer {
 }
 .second-soundcloud{
     position: absolute;
-    width: 182px;
+    width: 245px;
     height: 96px;
     border: 6px solid #ff5961;
     border-radius: 4%;
     left: 7px;
-    top: 115px;
+    top: 156px;
 }
         /*Team Page| End of Max-Width425px*/
         /*Location Page| Begin of Max-Width425px*/
@@ -1612,4 +1627,4 @@ table {
     right: 11px;
 }
 }
-
+}
