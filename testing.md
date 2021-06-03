@@ -41,7 +41,6 @@
 
 - Testing Hover Effect on:
    - Book a Trial Anchor:
-
 ![Testing Book Trial](assets/gif/hover-trial.gif)
 
  - Ask a Question Anchor:
@@ -52,7 +51,17 @@
 
 ![Testing Know More Anchor](assets/gif/hover-know.gif)
 
-- test responsiveness
+- Testing Youtube Video Player:
+
+![Testing Youutube Video](assets/gif/test-iframe.gif)
+
+- Testing Fade Image Animation:
+
+![Testing Image Animation](assets/gif/test-img.gif)
+
+- Testing Book a Trial Form:
+
+![Testing Book a Trial Form](assets/gif/test-form.gif)
 
 
 ### Team Page
