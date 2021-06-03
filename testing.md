@@ -144,4 +144,6 @@
 
 3. Lighthouse Auditing
 
+![Lighthouse Auditing](assets/images/lighthouse.png)
+
 # User Testing
