@@ -30,6 +30,48 @@
 
 # Manual Testing
 
+### Homepage
+
+- Hover over links
+
+- Image Animation hERO
+
+- Image animation fade
+
+- test form 
+
+- test responsiveness
+
+
+### Team Page
+
+-test playlist
+
+- test responsiveness
+
+
+### Location Page
+
+- test table
+
+- test carousell
+
+-test responsiveness
+
+
+### Blog Page
+ -test responsiveness
+### Login Page
+- test responsiveness
+
+- test form
+
+
+### Footer
+
+- test Links
+
+
 # Automated Testing 
 
 1. Code Validation
