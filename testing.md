@@ -63,34 +63,77 @@
 
 ![Testing Book a Trial Form](assets/gif/test-form.gif)
 
-
+- Homepage Responsiveness checked on:
+     - 1440px screen
+     - 1024px screen
+     - 768px screen
+     - 425px screen 
+     - 375px screen
+     
 ### Team Page
 
--test playlist
+ - Testing Favourite Playlist on Male Trainer:
 
-- test responsiveness
+ ![Testing Male Trainer Playlist](assets/gif/test-male.gif)
 
+- Testing Favourite Playlist on Female Trainer:
+
+![Testing Female Trainer Playlist](assets/gif/test-female.gif)
+
+- Team Page Responsiveness tested on:
+     - 1440px screen
+     - 1024px screen
+     - 768px screen
+     - 425px screen
 
 ### Location Page
 
-- test table
+- Testing Schedule Table Responsiveness:
 
-- test carousell
+![Testing Schedule Table](assets/gif/test-schedule.gif)
 
--test responsiveness
+- Testing Carousel:
 
+![Testing Carousel](assets/gif/test-carousel.gif)
+
+- Location Page Responsiveness tested on:
+     - 1440px screen
+     - 1024px screen
+     - 768px screen
+     - 425px screen
 
 ### Blog Page
- -test responsiveness
-### Login Page
-- test responsiveness
 
-- test form
+- Blog Page Responsiveness tested on:
+    - 1440px screen
+    - 1024px screen
+    - 768px screen
+    - 425px screen
+
+### Login Page
+
+- Testing Login Form:
+
+![Testing Login Form](assets/gif/test-login.gif)
+
+- Login Page Responsiveness tested on:
+    - 1440px screen
+    - 1024px screen
+    - 768px screen
+    - 425px screen
 
 
 ### Footer
 
-- test Links
+- Testing Social Links on Footer:
+
+![Testing Social Links on Footer](assets/gif/test-social.gif)
+
+- Footer Responsiveness tested on:
+    - 1440px screen
+    - 1024px screen
+    - 768px screen
+    - 425px screen
 
 
 # Automated Testing 
