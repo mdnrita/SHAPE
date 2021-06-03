@@ -237,10 +237,6 @@ A Scope was conducted in order to determine the Content and Features needed on t
 ![login-are-loginpage](assets/images/loginarea-login-readme.png)
 #
 
-# Issues and Bugs
-....
-
-#
 # Technologies Used
 
 ### Main Languages Used
