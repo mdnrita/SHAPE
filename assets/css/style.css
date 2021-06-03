@@ -1519,41 +1519,14 @@ footer {
     left: 7px;
     top: 156px;
 }
-        /*Team Page| End of Max-Width425px*/
-        /*Location Page| Begin of Max-Width425px*/
+        /*Team Page| END Max-Width425px*/
 
-        /*Blog Page| Begin of Max-Width 425px*/
-#two-row {
-    height: 356px;
-    border: 1px solid red;             
-}
-#third-row {
-    height: 278px;
-    border: 1px solid red;
-    margin-bottom: 0px;
-}
-        /*Blog Page| End of Max-Width 425px*/
-.section-header {
-    font-family: Audiowide, 'sans-serif';
-    margin-left: 19px;
-    font-size: 13px;
-    color: #ffffff;
-    text-transform: uppercase;
-    text-shadow: 1px -1px 1px black;
-    margin-top: 25px;
-    padding-top: 0px;
-    background-color: #ff0100ad;
-    box-shadow: 1px 2px 2px black;
-    text-align: center;
-    height: 16px;
-    width: 271px;
-    border-bottom: 2px solid red;
-}
+        /*Location Page| Max-Width425px*/
 #schedule {
-    height: 659px;
+    height: 657px;
 }
 .schedule-header {
-    padding-left: 9px;
+     padding-left: 9px;
     padding-top: 9px;
     text-transform: capitalize;
     width: 281px;
@@ -1564,44 +1537,21 @@ footer {
     color: white;
     box-shadow: -2px 2px 3px black;
 }
-table {
-    height: 190px;
-    width: 276px;
-    margin-top: 32px;
-    border-left: 4px solid red;
-    box-shadow: 1px 1px 4px black;
-    padding: 21px 19px 11px 20px;
-}
-#review-container {
+#review-container{
     position: relative;
     height: 295px;
-    top: -7px;
+    top: 8px;
     width: 125px;
-    left: 37px;
+    left: 55px;
 }
-#left-arrow {
-    position: absolute;
-    height: 19px;
-    top: 107px;
-    left: 17px;
-    background-color: #ff5961;
-    width: 17px;
+#left-arrow{
+    left: 35px;
 }
-#right-arrow {
-    position: absolute;
-    height: 20px;
-    top: 107px;
-    left: 152px;
-    background-color: #ff5961;
-    width: 16px;
+#right-arrow{
+    left: 177px;
 }
-#second-row-location {
-    position: relative;
-    height: 339px;
-    background-color: #ff5961;
-    border-radius: 4%;
-    margin-top: 16px;
-    margin-bottom: 20px;
+#second-row-location{
+    height: 301px;
 }
 #map-image {
     height: 136px;
@@ -1626,5 +1576,16 @@ table {
     top: 127px;
     right: 11px;
 }
+        /*Blog Page| Max-Width 425px*/
+#two-row {
+    height: 356px;
+    border: 1px solid red;             
+}
+#third-row {
+    height: 278px;
+    border: 1px solid red;
+    margin-bottom: 0px;
+}
+        /*Blog Page| END Max-Width 425px*/
 }
 }
