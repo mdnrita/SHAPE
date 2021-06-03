@@ -32,7 +32,11 @@
 
 ### Homepage
 
-- Hover over links
+- Testing on Section:
+   - Hero-Image Animation / Fade-In
+   - Text Animation / Fade-In 
+
+![Testing Hero Section](assets/gif/test-hero.gif)
 
 - Image Animation hERO
 
