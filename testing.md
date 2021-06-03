@@ -40,13 +40,16 @@
 
 
 - Testing Hover Effect on:
-   - Book a Trial Anchor
+   - Book a Trial Anchor:
+
 ![Testing Book Trial](assets/gif/hover-trial.gif)
 
- - Ask a Question Anchor
+ - Ask a Question Anchor:
+
 ![Testing Ask a Question](assets/gif/hover-question.gif)
 
-- Know more Anchor
+- Know more Anchor:
+
 ![Testing Know More Anchor](assets/gif/hover-know.gif)
 
 - test responsiveness
