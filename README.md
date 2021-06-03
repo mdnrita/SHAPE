@@ -135,7 +135,7 @@ A Scope was conducted in order to determine the Content and Features needed on t
 
 ### Login Page
 
-![Login Page Wireframe]()
+![Login Page Wireframe](assets/images/login-wireframe.png)
 #
 
 ## Design
@@ -351,23 +351,21 @@ Since this is a fictional business idea, some content was taken from the web, ma
 
 - ## Team Page
 
-    -
-    -
+    - The playlist of the male trainer can be found [here](https://soundcloud.com/ali-er-7)
+
+    - The playlist of the female trainer can be found [here](https://soundcloud.com/twofriendsmixes5)
 #
 
 - ## Location Page
 
-    - text
-
-
-
+    - The map image can be found [here](https://tmstools.co.th/sample-page/map-location-pin/.)
 #
 
 - ## Blog Page
     - The first article on the first row can be found [here](https://time.com/4474874/exercise-fitness-workouts/).
     - The second article show on the first can be found [here](https://www.everydayhealth.com/fitness/minute-full-body-strength-workout-with-kelsey-wells/).
-    - The first article on the second row can be found [here]()
-    - The second article on the second row can be found [here]()
+    - The first article on the second row can be found [here](https://healthyfitnessmeals.com/mediterranean-chopped-salad/)
+    - The second article on the second row can be found [here](https://healthyfitnessmeals.com/homemade-oatmeal-granola-bars/)
 
 #
 ### *Media*
@@ -392,6 +390,10 @@ Since this is a fictional business idea, some content was taken from the web, ma
      - Icons used can be found [here](https://fontawesome.com/).
 
      - [User 1](https://www.google.com/imgres?imgurl=http%3A%2F%2Fjoyfuljourneyhotsprings.com%2Fwp-content%2Fuploads%2F2013%2F07%2Fphotodune-4276142-smiling-portraits-xl_411.jpg&imgrefurl=http%3A%2F%2Fjoyfuljourneyhotsprings.com%2Fphotodune-4276142-smiling-portraits-xl_41%2F&tbnid=UvdalxaHs5escM&vet=10CBkQxiAoBWoXChMI-KX_hfiS8AIVAAAAAB0AAAAAEAI..i&docid=V3TPYEo3PZDusM&w=760&h=758&itg=1&q=face%20portrait%20smile&ved=0CBkQxiAoBWoXChMI-KX_hfiS8AIVAAAAAB0AAAAAEAI)) review &[ User 2](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxijXW82ZpZwGVAhkTffY_nc5vcwTyb8kOF4LTm61EdX4PuQ6ZgDIBDMnePtN2qiR4IzI&usqp=CAU) review.
+
+      - The image of the male tariner can be found [here](https://www.fitliving.nl/personal-training-ermelo/).
+
+      - The image of the female trainer can be found [here](https://trainmore.nl/personal-trainer/edit-horvath/)
 #
 
 ### *Code*
@@ -415,7 +417,7 @@ Since this is a fictional business idea, some content was taken from the web, ma
 #
 
 # Acknowledgments
-
+I would like to thank Tutor Supporto of Code Institute the Slack Community, and my Mentor Seun Owonikoko for guiding me on my first Milestone Project. 
 #
 
 
