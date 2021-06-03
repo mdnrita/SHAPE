@@ -138,12 +138,10 @@
 
 # Automated Testing 
 
-1. Code Validation
+1. CSS Validation:
 
-2. Browser Validation
+![CSS Validation](assets/images/css-validator.png)
 
 3. Lighthouse Auditing
 
 ![Lighthouse Auditing](assets/images/lighthouse.png)
-
-# User Testing
