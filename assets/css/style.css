@@ -39,7 +39,7 @@ a{
         /*All Pages| Anchor Elements*/
 a:hover{
     text-decoration: none;
-    color: #fff;
+    color: rgb(66, 63, 63);
 }
         /*Index| Hero Image Section*/
 .hero-section{
