@@ -32,17 +32,22 @@
 
 ### Homepage
 
-- Testing on Section:
+- Testing on Hero Section:
    - Hero-Image Animation / Fade-In
    - Text Animation / Fade-In 
 
 ![Testing Hero Section](assets/gif/test-hero.gif)
 
-- Image Animation hERO
 
-- Image animation fade
+- Testing Hover Effect on:
+   - Book a Trial Anchor
+![Testing Book Trial](assets/gif/hover-trial.gif)
 
-- test form 
+ - Ask a Question Anchor
+![Testing Ask a Question](assets/gif/hover-question.gif)
+
+- Know more Anchor
+![Testing Know More Anchor](assets/gif/hover-know.gif)
 
 - test responsiveness
 
