@@ -1537,6 +1537,9 @@ footer {
     color: white;
     box-shadow: -2px 2px 3px black;
 }
+.schedule-table{
+    overflow: auto;
+}
 #review-container{
     position: relative;
     height: 295px;
